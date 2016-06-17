@@ -1,0 +1,136 @@
+\documentclass[a4paper,pdf]{article}
+\usepackage{hyperref}
+\usepackage{pdfpages} % http://mirror.unl.edu/ctan/macros/latex/contrib/pdfpages/pdfpages.pdf
+\usepackage{booktabs} 
+\usepackage[utf8]{inputenc}
+\usepackage{sectsty}
+\subsubsectionfont{\fontsize{12}{15}\selectfont}
+\usepackage[dutch]{babel}
+\usepackage[margin=1.4in]{geometry}
+\usepackage{float}
+\usepackage[justification=centering]{caption}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes} % handig voor commentaar: gebruik \todo{}, zie ftp://ftp.fu-berlin.de/tex/CTAN/macros/latex/contrib/todonotes/todonotes.pdf
+\usepackage{listings}
+\usepackage{pdfpages}
+\usepackage{tcolorbox}
+\usepackage{float}
+\usepackage[font={footnotesize}]{caption}
+\usepackage{subcaption}
+\usepackage{tabularx}
+\usepackage{apacite}
+\usepackage{enumitem}\usepackage{array}% http://ctan.org/pkg/array
+\usepackage{lipsum}% http://ctan.org/pkg/lipsum
+\usepackage{titlesec}
+\usepackage{natbib}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{ltxtable} 
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage[nottoc,notlot,notlof]{tocbibind}
+\usepackage{amsthm}
+\usetikzlibrary{matrix}
+\usetikzlibrary{tikzmark}
+\selectlanguage{dutch}
+%\tikzstyle{arrow} = [thick,->,>=stealth']
+
+\newtheoremstyle{plain}
+  {\topsep}   % ABOVESPACE
+  {\topsep}   % BELOWSPACE
+  {\itshape}  % BODYFONT
+  {0pt}       % INDENT (empty value is the same as 0pt)
+  {\bfseries} % HEADFONT
+  {:}         % HEADPUNCT
+  {5pt plus 1pt minus 1pt} % HEADSPACE
+  {}          % CUSTOM-HEAD-SPEC
+
+
+\newtheorem{theorem}{Stelling}
+\newtheorem*{HOV}{Hoofdvraag}
+\newtheorem{DV}{Deelvraag}
+\newtheorem{SDV}{Subdeelvraag}[DV]
+
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks,
+    linkcolor={black!42!black},
+    citecolor={black!50!black},
+    urlcolor={blue!50!black}
+}
+
+ 
+%\newcommand{\todo}[1]{\textbf{TODO: #1 }}
+\begin{document}
+
+
+
+
+%\makeatletter
+%\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+%  {-3.25ex\@plus -1ex \@minus -.2ex}%
+%  {1.5ex \@plus .2ex}%
+%  {\normalfont\normalsize\bfseries}}
+%\makeatother
+
+\input{titlepage}
+
+
+\pagebreak
+
+\tableofcontents
+
+
+\pagebreak
+
+\begin{abstract}
+Bepaalde bevolkingsgroep zijn in de Nederlandse Tweede Kamer ondervertegenwoordigd. Daarnaast ontbreekt ook elke vorm van een quotum zij zowel partijen als de Tweede Kamer als geheel. Daarom zijn er in dit onderzoek een vijftal strategie\"{e}n ontwikkeld die de bevolkingsgroepen in staat stellen om de regel van de voorkeursdrempel in de kieswet beter te benutten. Vanwege de complexiteit van de wijze waarop een strategie uitgevoerd dient te worden, stellen we een tweetal hulpmiddelen voor in de vorm van IT-toepassingen. Tot slot wordt er onderzocht wat er gebeurt wanneer meerdere bevolkingsgroepen een strategie uitvoeren. Hierbij wordt met \textit{P=percentage stemmen afkomstig uit een bevolkingsgroep in verhouding tot totaal aantal stemmen} en \textit{Z=aantal zetels} een Nash Equilibrium bereikt wanneer geldt: \textit{P*Z/(1-P)*Z}. Om te voorkomen dat een bevolkingsgroep oververtegenwoordigd zal zijn nadat het een strategie heeft uitgevoerd, kan de voorkeursdrempel worden verhoogd naar het aantal stemmen dat geldt voor de kiesdeler. Bevolkingsgroepen kunnen dan nog altijd een strategie uitvoeren. Echter kan een bevolkingsgroep in geen geval een groter aandeel van de zetels ontvangen dan dat zij een aandeel stemmen hebben in verhouding tot het totaal aantal stemmen. Oftewel, bij volle 100\%  deelname van leden van een bevolkingsgroep ontvangt deze bevolkingsgroep een even groot aandeel van de zetels als het aandeel van de stemmen dat is uitgebracht.  
+
+
+
+\end{abstract}
+
+
+\pagebreak
+
+\hypersetup{
+    colorlinks,
+    linkcolor={blue!50!black},
+    citecolor={black!50!black},
+    urlcolor={blue!37!black}
+}
+
+
+% Here you input all your sections in seperate files
+
+\input{introductie}
+\input{gerelateerd_werk}
+\input{data}
+\input{theoretisch_maximum}
+\input{factoren_invloed}
+\input{uitvoerbaarheid_strategien}
+\input{tegenbeweging_speltheorie}
+\input{Voorkomen_uitbuiting}
+\input{conclusie}
+
+
+\bibliography{literature}
+\bibliographystyle{apacite}
+% your refs
+
+%\bibliographystyle{plain}
+%\bibliography{MyThesis}
+
+\appendix
+
+\input{bijlage1}
+\input{bijlage2}
+
+
+% Example
+%\includepdf[nup=2x3 , pages=-]{sargent-lecture_slides.pdf}
+ 
+\end{document}

@@ -1,0 +1,46 @@
+
+
+
+
+\iffalse
+\begin{tabular}{|r|r|r|r|r|r|}
+\hline
+V   & M   & V   & M   & V   & M   \\ \hline
+6   & 4  & NaN & NaN & NaN & NaN \\ \hline
+7   & 3   & 5   & 5 \tikzmark{f}   & NaN & NaN \\ \hline
+NaN & NaN & 8   & \tikzmark{d}{2} \tikzmark{e}  & \tikzmark{c}{4}   & \tikzmark{b}{6}   \\ \hline
+NaN & NaN & NaN & NaN & 10  & \tikzmark{a}{0}   \\ \hline
+\end{tabular}
+\begin{tikzpicture}[overlay, remember picture, shorten >=.5pt, shorten <=.5pt]
+
+   \draw [->] ({pic cs:a}) [line width=0.35mm, yshift=-1] to ({pic cs:b});
+    \draw [->] ({pic cs:c}) [line width=0.35mm, yshift=-1] to ({pic cs:d});
+    \draw [->] ({pic cs:e}) [line width=0.35mm, yshift=-1] to ({pic cs:f});
+\end{tikzpicture}
+\fi
+
+
+%\left\Downarrow% Use `\left.` if don't want arrow on this side.
+\begin{tabular}{llrr}
+\toprule
+ {}                                       & {}            & Aantal Zetels & Aantal Zetels \\
+ Strategie (op volgorde van aanpassing)                    &                          {}   & Vrouwen       & Mannen \\
+\midrule
+Beiden bevolkingsgroepen zelfde strategie & \tikzmark{a}{} & 10 &  0\\
+Mannelijke kiezers veranderen strategie   &   {}          & 4  &  6 \\
+Vrouwelijke kiezers veranderen strategie  &    {}          & 8  &  2\\
+Mannelijke kiezers veranderen strategie   &    {}          & 5  &  5 \\
+Vrouwelijke kiezers veranderen strategie  &    {}          & 7  &  3 \\
+Mannelijke kiezers veranderen strategie   & \tikzmark{b}{} & 6  &  4 \\
+\bottomrule
+\end{tabular}
+%\right.
+
+
+\begin{tikzpicture}[overlay, remember picture, shorten >=.5pt, shorten <=.5pt]
+
+   \draw [->] ({pic cs:a}) [line width=0.4mm, yshift=2, ] to ({pic cs:b});
+
+\end{tikzpicture}
+
+

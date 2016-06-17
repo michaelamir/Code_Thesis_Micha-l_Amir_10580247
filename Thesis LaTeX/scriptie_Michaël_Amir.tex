@@ -1,0 +1,53 @@
+\documentclass[a4paper,pdf]{article}
+\usepackage{hyperref}
+\usepackage{pdfpages} % http://mirror.unl.edu/ctan/macros/latex/contrib/pdfpages/pdfpages.pdf
+\usepackage{booktabs} 
+\usepackage[utf8]{inputenc}
+\usepackage{sectsty}
+\subsubsectionfont{\fontsize{12}{15}\selectfont}
+\begin{document}
+
+
+
+
+\input{titlepage}
+
+
+\pagebreak
+
+\tableofcontents
+
+\pagebreak
+
+\begin{abstract}
+% [CHANGE] 
+\end{abstract}
+
+
+\pagebreak
+
+
+% Here you input all your sections in seperate files
+
+\input{introduction}
+\input{related_work}
+\input{methodology}
+\input{evaluation}
+\input{conclusions}
+
+% your refs
+
+\bibliographystyle{plain}
+\bibliography{MyThesis}
+
+\appendix
+
+%\input{appendix}
+
+
+section{Slides}
+
+% Example
+\includepdf[nup=2x3 , pages=-]{sargent-lecture_slides.pdf}
+ 
+\end{document}
