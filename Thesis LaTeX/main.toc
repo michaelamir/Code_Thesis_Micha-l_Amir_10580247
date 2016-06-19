@@ -4,162 +4,159 @@
 \contentsline {section}{\numberline {2}Gerelateerd Werk}{10}{section.2}
 \contentsline {subsection}{\numberline {2.1}Quota.}{10}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}IT-toepassingen bij verkiezingen.}{11}{subsection.2.2}
-\contentsline {section}{\numberline {3}Beschrijving van de Data.}{13}{section.3}
-\contentsline {subsection}{\numberline {3.1}Datasets betreffende de Bevolkingsgroep Vrouwen.}{14}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Datasets betreffende de Bevolkingsgroep Allochtonen.}{15}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Datasets betreffende de Bevolkingsgroep Ouderen.}{17}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Datasets betreffende de Bevolkingsgroep Provincialen.}{18}{subsection.3.4}
-\contentsline {section}{\numberline {4}Theoretisch Maximum}{20}{section.4}
-\contentsline {subsection}{\numberline {4.1}Bevolkingsgroep: Vrouwen.}{21}{subsection.4.1}
-\contentsline {paragraph}{Het berekenen van het aantal te verwachten vrouwelijke stemmen.}{21}{subsection.4.1}
-\contentsline {paragraph}{Het berekenen van het werkelijke aantal vrouwelijke stemmen.}{22}{table.caption.10}
-\contentsline {paragraph}{Het uiteindelijk opstellen van de Tweede Kamer na uitvoering van een strategie.}{22}{table.caption.11}
-\contentsline {subsubsection}{\numberline {4.1.1}Strategie 1: Vrouwelijke kiezers stemmen volstrekt willekeurig op een top \textit {N} vrouwelijke kandidaat.}{24}{subsubsection.4.1.1}
-\contentsline {paragraph}{Regels.}{24}{subsubsection.4.1.1}
-\contentsline {paragraph}{Verdelingen zetels en aantal vrouwelijke kandidaten.}{24}{subsubsection.4.1.1}
-\contentsline {paragraph}{Maximaal aantal vrouwen per partij (top \textit {N}) dat in de Tweede Kamer gekozen kan worden.}{24}{figure.caption.12}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling.}{25}{table.caption.13}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van einduitslag.}{26}{figure.caption.14}
-\contentsline {paragraph}{Aantal vrouwen na strategie 1.}{27}{figure.caption.15}
-\contentsline {paragraph}{Minder vrouwen dan 127 vrouwen in de Tweede Kamer na uitvoering van strategie 1.}{27}{figure.caption.16}
-\contentsline {subsubsection}{\numberline {4.1.2}Strategie 2: Vrouwelijke kiezers stemmen op een willekeurige vrouwelijke kandidaat.}{28}{subsubsection.4.1.2}
-\contentsline {paragraph}{Regels.}{28}{subsubsection.4.1.2}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling en de einduitslag.}{28}{subsubsection.4.1.2}
-\contentsline {paragraph}{Aantal vrouwen na strategie 2.}{29}{figure.caption.17}
-\contentsline {paragraph}{Minder vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 2 dan d.m.v. uitvoering van strategie 1.}{29}{figure.caption.18}
-\contentsline {subsubsection}{\numberline {4.1.3}Strategie 3.1: Vrouwelijke kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste 15 vrouwelijke kandidaten van een partij.}{30}{subsubsection.4.1.3}
-\contentsline {paragraph}{Regels.}{30}{subsubsection.4.1.3}
-\contentsline {paragraph}{Partijen met minstens 15 vrouwelijke kandidaten en partijen met minder dan 15 vrouwelijke kandidaten.}{30}{subsubsection.4.1.3}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling.}{31}{figure.caption.19}
-\contentsline {paragraph}{Aantal vrouwen na strategie 3.1.}{32}{figure.caption.20}
-\contentsline {paragraph}{Minder vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 3.1 dan d.m.v. uitvoering van strategie 2.}{32}{figure.caption.21}
-\contentsline {subsubsection}{\numberline {4.1.4}Strategie 3.2: Vrouwelijke kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste \textit {N} vrouwelijke kandidaten van een partij.}{33}{subsubsection.4.1.4}
-\contentsline {paragraph}{Regels.}{33}{subsubsection.4.1.4}
-\contentsline {paragraph}{Voor elke partij de eigen \textit {N} bepalen.}{33}{subsubsection.4.1.4}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling.}{34}{figure.caption.22}
-\contentsline {paragraph}{Aantal vrouwen na strategie 3.2.}{35}{figure.caption.23}
-\contentsline {paragraph}{Meer vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 3.2 dan d.m.v. uitvoering van strategie 3.1.}{35}{figure.caption.24}
-\contentsline {subsubsection}{\numberline {4.1.5}Strategie 4: Vrouwelijke kiezers stemmen op de top \textit {N+extra percentage} vrouwelijke kandidaten van een partij.}{36}{subsubsection.4.1.5}
-\contentsline {paragraph}{Regels.}{36}{subsubsection.4.1.5}
-\contentsline {paragraph}{Speling in top \textit {N}.}{36}{subsubsection.4.1.5}
-\contentsline {paragraph}{Maximaal aantal vrouwen per partij(top \textit {N+extra percentage}) dat in de Tweede Kamer gekozen kan worden.}{36}{subsubsection.4.1.5}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling.}{37}{figure.caption.25}
-\contentsline {paragraph}{Aantal vrouwen na strategie 4.}{39}{figure.caption.26}
-\contentsline {paragraph}{Niet meer maar minder vrouwen na uitvoering van strategie 4.}{39}{figure.caption.27}
-\contentsline {paragraph}{Niet meer dan 121 vrouwen in de Tweede Kamer.}{39}{figure.caption.27}
-\contentsline {section}{\numberline {5}Factoren en Invloed}{41}{section.5}
-\contentsline {paragraph}{Overzicht bevindingen.}{42}{section.5}
-\contentsline {subsection}{\numberline {5.1}Factoren bevolkingsgroep vrouwen.}{42}{subsection.5.1}
-\contentsline {paragraph}{Aantal Vrouwelijke Kandidaten.}{42}{subsection.5.1}
-\contentsline {paragraph}{Keuze Strategie.}{42}{subsection.5.1}
-\contentsline {paragraph}{Committeren aan een strategie.}{42}{subsection.5.1}
-\contentsline {paragraph}{Tegenstrategie.}{44}{figure.caption.29}
-\contentsline {subsection}{\numberline {5.2}Factoren bevolkingsgroep allochtonen.}{44}{subsection.5.2}
-\contentsline {paragraph}{Aantal allochtone Kandidaten.}{44}{subsection.5.2}
-\contentsline {paragraph}{Keuze Strategie.}{45}{subsection.5.2}
-\contentsline {paragraph}{Committeren aan een strategie.}{45}{subsection.5.2}
-\contentsline {paragraph}{Tegenstrategie.}{46}{figure.caption.31}
-\contentsline {subsection}{\numberline {5.3}Factoren bevolkingsgroep ouderen.}{46}{subsection.5.3}
-\contentsline {paragraph}{Aantal oudere Kandidaten.}{46}{subsection.5.3}
-\contentsline {paragraph}{Keuze Strategie.}{47}{subsection.5.3}
-\contentsline {paragraph}{Committeren aan een strategie.}{47}{subsection.5.3}
-\contentsline {paragraph}{Tegenstrategie.}{48}{figure.caption.33}
-\contentsline {subsection}{\numberline {5.4}Factoren bevolkingsgroep provincialen.}{48}{subsection.5.4}
-\contentsline {paragraph}{Aantal provinciale Kandidaten.}{48}{subsection.5.4}
-\contentsline {paragraph}{Keuze Strategie.}{49}{subsection.5.4}
-\contentsline {paragraph}{Committeren aan een strategie.}{49}{subsection.5.4}
-\contentsline {paragraph}{Tegenstrategie.}{50}{figure.caption.35}
-\contentsline {section}{\numberline {6}Uitvoerbaarheid Strategie\"{e}n}{51}{section.6}
-\contentsline {subsection}{\numberline {6.1}Uitvoeringswijze Strategie\"{e}n.}{51}{subsection.6.1}
-\contentsline {paragraph}{Hulpmiddel voor assistentie bij het kiezen van een willekeurige kandidaat.}{52}{subsection.6.1}
-\contentsline {paragraph}{Hulpmiddel die willekeurige kandidaat uitkiest.}{53}{figure.caption.36}
-\contentsline {subsection}{\numberline {6.2}Voor- en nadelen van keuze voor een uitvoeringswijze strategie.}{54}{subsection.6.2}
-\contentsline {paragraph}{Hulpmiddel en geen hulpmiddel.}{54}{subsection.6.2}
-\contentsline {paragraph}{Keuze tussen een online of lokale database voor de mobiele applicatie.}{55}{subsection.6.2}
-\contentsline {paragraph}{Willekeurige keuze van de kiezer vs. willekeurige toewijzing van een kandidaat aan de kiezer.}{55}{subsection.6.2}
-\contentsline {section}{\numberline {7}Tegenbeweging en Zoektoch naar Nash Equilibrium.}{57}{section.7}
-\contentsline {paragraph}{Stelling:}{58}{section.7}
-\contentsline {paragraph}{Strategie met 100\% zekerheid.}{60}{table.caption.38}
-\contentsline {section}{\numberline {8}Voorkomen Uitbuiting Voorkeursdrempel.}{61}{section.8}
-\contentsline {paragraph}{Stelling:}{61}{section.8}
+\contentsline {section}{\numberline {3}Beschrijving van de Data.}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Datasets betreffende de Bevolkingsgroep Vrouwen.}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Datasets betreffende de Bevolkingsgroep Allochtonen.}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Datasets betreffende de Bevolkingsgroep Ouderen.}{16}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Datasets betreffende de Bevolkingsgroep Provincialen.}{17}{subsection.3.4}
+\contentsline {section}{\numberline {4}Theoretisch Maximum}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}Bevolkingsgroep: Vrouwen.}{20}{subsection.4.1}
+\contentsline {paragraph}{Het berekenen van het aantal te verwachten vrouwelijke stemmen.}{20}{subsection.4.1}
+\contentsline {paragraph}{Het berekenen van het werkelijke aantal vrouwelijke stemmen.}{21}{table.caption.10}
+\contentsline {paragraph}{Het uiteindelijk opstellen van de Tweede Kamer na uitvoering van een strategie.}{21}{table.caption.11}
+\contentsline {subsubsection}{\numberline {4.1.1}Strategie 1: Vrouwelijke kiezers stemmen volstrekt willekeurig op een top \textit {N} vrouwelijke kandidaat.}{23}{subsubsection.4.1.1}
+\contentsline {paragraph}{Regels.}{23}{subsubsection.4.1.1}
+\contentsline {paragraph}{Verdelingen zetels en aantal vrouwelijke kandidaten.}{23}{subsubsection.4.1.1}
+\contentsline {paragraph}{Maximaal aantal vrouwen per partij (top \textit {N}) dat in de Tweede Kamer gekozen kan worden.}{23}{figure.caption.12}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling.}{24}{table.caption.13}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van einduitslag.}{25}{figure.caption.14}
+\contentsline {paragraph}{Aantal vrouwen na strategie 1.}{26}{figure.caption.15}
+\contentsline {paragraph}{Minder vrouwen dan 127 vrouwen in de Tweede Kamer na uitvoering van strategie 1.}{26}{figure.caption.16}
+\contentsline {subsubsection}{\numberline {4.1.2}Strategie 2: Vrouwelijke kiezers stemmen op een willekeurige vrouwelijke kandidaat.}{27}{subsubsection.4.1.2}
+\contentsline {paragraph}{Regels.}{27}{subsubsection.4.1.2}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling en de einduitslag.}{27}{subsubsection.4.1.2}
+\contentsline {paragraph}{Aantal vrouwen na strategie 2.}{28}{figure.caption.17}
+\contentsline {paragraph}{Minder vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 2 dan d.m.v. uitvoering van strategie 1.}{28}{figure.caption.18}
+\contentsline {subsubsection}{\numberline {4.1.3}Strategie 3.1: Vrouwelijke kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste 15 vrouwelijke kandidaten van een partij.}{29}{subsubsection.4.1.3}
+\contentsline {paragraph}{Regels.}{29}{subsubsection.4.1.3}
+\contentsline {paragraph}{Partijen met minstens 15 vrouwelijke kandidaten en partijen met minder dan 15 vrouwelijke kandidaten.}{29}{subsubsection.4.1.3}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling.}{30}{figure.caption.19}
+\contentsline {paragraph}{Aantal vrouwen na strategie 3.1.}{31}{figure.caption.20}
+\contentsline {paragraph}{Minder vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 3.1 dan d.m.v. uitvoering van strategie 2.}{31}{figure.caption.21}
+\contentsline {subsubsection}{\numberline {4.1.4}Strategie 3.2: Vrouwelijke kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste \textit {N} vrouwelijke kandidaten van een partij.}{32}{subsubsection.4.1.4}
+\contentsline {paragraph}{Regels.}{32}{subsubsection.4.1.4}
+\contentsline {paragraph}{Voor elke partij de eigen \textit {N} bepalen.}{32}{subsubsection.4.1.4}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling.}{33}{figure.caption.22}
+\contentsline {paragraph}{Aantal vrouwen na strategie 3.2.}{34}{figure.caption.23}
+\contentsline {paragraph}{Meer vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 3.2 dan d.m.v. uitvoering van strategie 3.1.}{34}{figure.caption.24}
+\contentsline {subsubsection}{\numberline {4.1.5}Strategie 4: Vrouwelijke kiezers stemmen op de top \textit {N+extra percentage} vrouwelijke kandidaten van een partij.}{35}{subsubsection.4.1.5}
+\contentsline {paragraph}{Regels.}{35}{subsubsection.4.1.5}
+\contentsline {paragraph}{Speling in top \textit {N}.}{35}{subsubsection.4.1.5}
+\contentsline {paragraph}{Maximaal aantal vrouwen per partij(top \textit {N+extra percentage}) dat in de Tweede Kamer gekozen had kunnen worden.}{35}{subsubsection.4.1.5}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling.}{36}{figure.caption.25}
+\contentsline {paragraph}{Aantal vrouwen na strategie 4.}{38}{figure.caption.26}
+\contentsline {paragraph}{Niet meer dan 121 vrouwen in de Tweede Kamer.}{38}{figure.caption.27}
+\contentsline {section}{\numberline {5}Factoren en Invloed}{40}{section.5}
+\contentsline {paragraph}{Overzicht bevindingen.}{41}{section.5}
+\contentsline {subsection}{\numberline {5.1}Factoren bevolkingsgroep vrouwen.}{41}{subsection.5.1}
+\contentsline {paragraph}{Aantal Vrouwelijke Kandidaten.}{41}{subsection.5.1}
+\contentsline {paragraph}{Keuze Strategie.}{41}{subsection.5.1}
+\contentsline {paragraph}{Committeren aan een strategie.}{41}{subsection.5.1}
+\contentsline {paragraph}{Tegenstrategie.}{43}{figure.caption.29}
+\contentsline {subsection}{\numberline {5.2}Factoren bevolkingsgroep allochtonen.}{43}{subsection.5.2}
+\contentsline {paragraph}{Aantal allochtone Kandidaten.}{43}{subsection.5.2}
+\contentsline {paragraph}{Keuze Strategie.}{44}{subsection.5.2}
+\contentsline {paragraph}{Committeren aan een strategie.}{44}{subsection.5.2}
+\contentsline {paragraph}{Tegenstrategie.}{45}{figure.caption.31}
+\contentsline {subsection}{\numberline {5.3}Factoren bevolkingsgroep ouderen.}{45}{subsection.5.3}
+\contentsline {paragraph}{Aantal oudere Kandidaten.}{45}{subsection.5.3}
+\contentsline {paragraph}{Keuze Strategie.}{46}{subsection.5.3}
+\contentsline {paragraph}{Committeren aan een strategie.}{46}{subsection.5.3}
+\contentsline {paragraph}{Tegenstrategie.}{47}{figure.caption.33}
+\contentsline {subsection}{\numberline {5.4}Factoren bevolkingsgroep provincialen.}{47}{subsection.5.4}
+\contentsline {paragraph}{Aantal provinciale Kandidaten.}{47}{subsection.5.4}
+\contentsline {paragraph}{Keuze Strategie.}{48}{subsection.5.4}
+\contentsline {paragraph}{Committeren aan een strategie.}{48}{subsection.5.4}
+\contentsline {paragraph}{Tegenstrategie.}{49}{figure.caption.35}
+\contentsline {section}{\numberline {6}Uitvoerbaarheid Strategie\"{e}n}{50}{section.6}
+\contentsline {subsection}{\numberline {6.1}Uitvoeringswijze Strategie\"{e}n.}{50}{subsection.6.1}
+\contentsline {paragraph}{Hulpmiddel voor assistentie bij het kiezen van een willekeurige kandidaat.}{51}{subsection.6.1}
+\contentsline {paragraph}{Hulpmiddel die willekeurige kandidaat uitkiest.}{52}{figure.caption.36}
+\contentsline {subsection}{\numberline {6.2}Voor- en nadelen van keuze voor een uitvoeringswijze strategie.}{53}{subsection.6.2}
+\contentsline {paragraph}{Hulpmiddel en geen hulpmiddel.}{53}{subsection.6.2}
+\contentsline {paragraph}{Keuze tussen een online of lokale database voor de mobiele applicatie.}{53}{section*.38}
+\contentsline {paragraph}{Willekeurige keuze van de kiezer vs. willekeurige toewijzing van een kandidaat aan de kiezer.}{54}{section*.38}
+\contentsline {section}{\numberline {7}Tegenbeweging en de Zoektoch naar het Nash Equilibrium.}{56}{section.7}
+\contentsline {section}{\numberline {8}Voorkomen Uitbuiting Voorkeursdrempel.}{60}{section.8}
+\contentsline {paragraph}{100\% zekerheid.}{61}{theorem.2}
 \contentsline {section}{\numberline {9}Conclusie}{63}{section.9}
 \contentsline {subsection}{\numberline {9.1}Acknowledgements}{64}{subsection.9.1}
 \contentsline {section}{Literatuur}{65}{subsection.9.1}
-\contentsline {section}{\numberline {A}Bijlage 1.}{70}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Bevolkingsgroep: Allochtonen.}{70}{subsection.A.1}
-\contentsline {paragraph}{Aannames en Regels.}{70}{subsection.A.1}
-\contentsline {paragraph}{Het berekenen van het aantal te verwachten allochtone stemmen.}{70}{subsection.A.1}
-\contentsline {paragraph}{Het berekenen van het daadwerkelijke aantal allochtone stemmen.}{71}{table.caption.39}
-\contentsline {subsubsection}{\numberline {A.1.1}Strategie 1: Allochtone kiezers stemmen op top \textit {N} allochtone kandidaten.}{72}{subsubsection.A.1.1}
-\contentsline {paragraph}{Verdelingen zetels en aantal allochtone kandidaten.}{72}{subsubsection.A.1.1}
-\contentsline {paragraph}{Maximaal aantal allochtonen per partij(top \textit {N}) dat in de Tweede Kamer gekozen kan worden.}{72}{figure.caption.41}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de allochtone kandidaten op basis van de peiling en de einduitslag.}{73}{table.caption.42}
-\contentsline {paragraph}{Aantal allochtonen na strategie 1.}{73}{figure.caption.43}
-\contentsline {paragraph}{Minder vrouwen dan 46 allochtonen in de Tweede Kamer na uitvoering van strategie 1.}{74}{figure.caption.44}
-\contentsline {subsubsection}{\numberline {A.1.2}Strategie 2: Allochtone kiezers stemmen op een willekeurige vrouwelijke kandidaat.}{74}{subsubsection.A.1.2}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de allochtone kandidaten op basis van de peiling en de einduitslag.}{74}{subsubsection.A.1.2}
-\contentsline {paragraph}{Aantal allochtonen na strategie 2.}{75}{figure.caption.45}
-\contentsline {paragraph}{Hetzelfde aantal allochtonen in de Tweede Kamer als bij strategie 1.}{75}{figure.caption.46}
-\contentsline {subsection}{\numberline {A.2}Bevolkingsgroep: Ouderen.}{76}{subsection.A.2}
-\contentsline {paragraph}{Aannames en Regels.}{76}{subsection.A.2}
-\contentsline {paragraph}{Het berekenen van het aantal te verwachten ouderen stemmen.}{76}{subsection.A.2}
-\contentsline {paragraph}{Het berekenen van het daadwerkelijke aantal oudere stemmen.}{76}{table.caption.47}
-\contentsline {subsubsection}{\numberline {A.2.1}Strategie 1: Oudere kiezers stemmen op top \textit {N} ouderen kandidaten.}{77}{subsubsection.A.2.1}
-\contentsline {paragraph}{Verdelingen zetels en aantal oudere kandidaten.}{77}{subsubsection.A.2.1}
-\contentsline {paragraph}{Maximaal aantal ouderen per partij(top \textit {N}) dat in de Tweede Kamer gekozen kan worden.}{78}{figure.caption.49}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{78}{table.caption.50}
-\contentsline {paragraph}{Aantal ouderen na strategie 1.}{79}{figure.caption.51}
-\contentsline {paragraph}{Minder vrouwen dan 95 ouderen in de Tweede Kamer na uitvoering van strategie 1.}{79}{figure.caption.52}
-\contentsline {subsubsection}{\numberline {A.2.2}Strategie 2: Oudere kiezers stemmen op een willekeurige oudere kandidaat.}{79}{subsubsection.A.2.2}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{79}{subsubsection.A.2.2}
-\contentsline {paragraph}{Aantal ouderen na strategie 2.}{80}{figure.caption.53}
-\contentsline {paragraph}{\IeC {\'E}\IeC {\'e}n oudere minder in de Tweede Kamer ten opzicht van strategie 1.}{80}{figure.caption.54}
-\contentsline {subsubsection}{\numberline {A.2.3}Strategie 3.1: Oudere kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste 15 oudere kandidaten van een partij.}{81}{subsubsection.A.2.3}
-\contentsline {paragraph}{Partijen met minstens 15 oudere kandidaten en partijen met minder dan 15 oudere kandidaten.}{81}{subsubsection.A.2.3}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{81}{figure.caption.55}
-\contentsline {paragraph}{Aantal ouderen na strategie 3.1.}{82}{figure.caption.56}
-\contentsline {paragraph}{Minder vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 3.1 dan d.m.v. uitvoering van strategie 2.}{83}{figure.caption.57}
-\contentsline {subsubsection}{\numberline {A.2.4}Strategie 3.2: Oudere kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste \textit {N} oudere kandidaten van een partij.}{83}{subsubsection.A.2.4}
-\contentsline {paragraph}{Voor elke partij de eigen \textit {N} bepalen.}{83}{subsubsection.A.2.4}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{83}{figure.caption.58}
-\contentsline {paragraph}{Aantal ouderen na strategie 3.2.}{84}{figure.caption.59}
-\contentsline {paragraph}{Meer vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 3.2 dan d.m.v. uitvoering van strategie 3.1.}{85}{figure.caption.60}
-\contentsline {subsubsection}{\numberline {A.2.5}Strategie 4: Ouderen kiezers stemmen op de top \textit {N+extra percentage} oudere kandidaten van een partij.}{85}{subsubsection.A.2.5}
-\contentsline {paragraph}{Speling in top \textit {N}.}{85}{subsubsection.A.2.5}
-\contentsline {paragraph}{Maximaal aantal ouderen per partij(top \textit {N+extra percentage}) dat in de Tweede Kamer gekozen kan worden.}{85}{subsubsection.A.2.5}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{86}{figure.caption.61}
-\contentsline {paragraph}{Aantal ouderen na strategie 4.}{87}{figure.caption.62}
-\contentsline {paragraph}{Niet meer maar minder ouderen na uitvoering van strategie 4.}{88}{figure.caption.63}
-\contentsline {paragraph}{Niet meer dan 89 ouderen in de Tweede Kamer.}{88}{figure.caption.63}
-\contentsline {subsection}{\numberline {A.3}Bevolkingsgroep: Provincialen.}{88}{subsection.A.3}
-\contentsline {paragraph}{Aannames en Regels.}{88}{subsection.A.3}
-\contentsline {paragraph}{Het berekenen van het aantal te verwachten provinciale stemmen.}{89}{subsection.A.3}
-\contentsline {paragraph}{Het berekenen van het daadwerkelijke aantal provinciale stemmen.}{89}{table.caption.64}
-\contentsline {subsubsection}{\numberline {A.3.1}Strategie 1: Provinciale kiezers stemmen op top \textit {N} Provinciale kandidaten.}{89}{subsubsection.A.3.1}
-\contentsline {paragraph}{Verdelingen zetels en aantal Provinciale kandidaten.}{89}{subsubsection.A.3.1}
-\contentsline {paragraph}{Maximaal aantal provincialen per partij(top \textit {N}) dat in de Tweede Kamer gekozen kan worden.}{90}{figure.caption.66}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{90}{table.caption.67}
-\contentsline {paragraph}{Aantal provincialen na strategie 1.}{91}{figure.caption.68}
-\contentsline {paragraph}{Minder dan 147 provincialen in de Tweede Kamer na uitvoering van strategie 1.}{92}{figure.caption.69}
-\contentsline {subsubsection}{\numberline {A.3.2}Strategie 2: Provinciale kiezers stemmen op een willekeurige provinciale kandidaat.}{92}{subsubsection.A.3.2}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{92}{subsubsection.A.3.2}
-\contentsline {paragraph}{Aantal provincialen na strategie 2.}{93}{figure.caption.70}
-\contentsline {paragraph}{Zeven provincialen minder in de Tweede Kamer ten opzicht van strategie 1.}{93}{figure.caption.71}
-\contentsline {subsubsection}{\numberline {A.3.3}Strategie 3.1: Provinciale kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste 15 provinciale kandidaten van een partij.}{94}{subsubsection.A.3.3}
-\contentsline {paragraph}{Partijen met minstens 15 provinciale kandidaten en partijen met minder dan 15 provinciale kandidaten.}{94}{subsubsection.A.3.3}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{94}{figure.caption.72}
-\contentsline {paragraph}{Aantal provincialen na strategie 3.1.}{95}{figure.caption.73}
-\contentsline {paragraph}{Minder provincialen in de Tweede Kamer d.m.v. uitvoering van strategie 3.1 dan d.m.v. uitvoering van strategie 2.}{95}{figure.caption.74}
-\contentsline {subsubsection}{\numberline {A.3.4}Strategie 3.2: Provinciale kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste \textit {N} provinciale kandidaten van een partij.}{96}{subsubsection.A.3.4}
-\contentsline {paragraph}{Voor elke partij de eigen \textit {N} bepalen.}{96}{subsubsection.A.3.4}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{96}{figure.caption.75}
-\contentsline {paragraph}{Aantal provincialen na strategie 3.2.}{97}{figure.caption.76}
-\contentsline {paragraph}{Meer provincialen in de Tweede Kamer d.m.v. uitvoering van strategie 3.2 dan d.m.v. uitvoering van strategie 3.1.}{97}{figure.caption.77}
-\contentsline {subsubsection}{\numberline {A.3.5}Strategie 4: Provinciale kiezers stemmen op de top \textit {N+extra percentage} provinciale kandidaten van een partij.}{98}{subsubsection.A.3.5}
-\contentsline {paragraph}{Speling in top \textit {N}.}{98}{subsubsection.A.3.5}
-\contentsline {paragraph}{Maximaal aantal provinciale per partij(top \textit {N+extra percentage}) dat in de Tweede Kamer gekozen kan worden.}{98}{subsubsection.A.3.5}
-\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{99}{figure.caption.78}
-\contentsline {paragraph}{Aantal provincialen na strategie 4.}{99}{figure.caption.79}
-\contentsline {paragraph}{Niet meer provincialen na uitvoering van strategie 4.}{100}{figure.caption.80}
-\contentsline {paragraph}{Niet meer dan 142 provincialen in de Tweede Kamer.}{100}{figure.caption.80}
-\contentsline {section}{\numberline {B}Bijlage 2.}{101}{appendix.B}
+\contentsline {section}{\numberline {A}Bijlage 1.}{71}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Bevolkingsgroep: Allochtonen.}{71}{subsection.A.1}
+\contentsline {paragraph}{Aannames en Regels.}{71}{subsection.A.1}
+\contentsline {paragraph}{Het berekenen van het aantal te verwachten allochtone stemmen.}{71}{subsection.A.1}
+\contentsline {paragraph}{Het berekenen van het daadwerkelijke aantal allochtone stemmen.}{72}{table.caption.41}
+\contentsline {subsubsection}{\numberline {A.1.1}Strategie 1: Allochtone kiezers stemmen op top \textit {N} allochtone kandidaten.}{73}{subsubsection.A.1.1}
+\contentsline {paragraph}{Verdelingen zetels en aantal allochtone kandidaten.}{73}{subsubsection.A.1.1}
+\contentsline {paragraph}{Maximaal aantal allochtonen per partij(top \textit {N}) dat in de Tweede Kamer gekozen kan worden.}{73}{figure.caption.43}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de allochtone kandidaten op basis van de peiling en de einduitslag.}{74}{table.caption.44}
+\contentsline {paragraph}{Aantal allochtonen na strategie 1.}{74}{figure.caption.45}
+\contentsline {paragraph}{Minder vrouwen dan 46 allochtonen in de Tweede Kamer na uitvoering van strategie 1.}{75}{figure.caption.46}
+\contentsline {subsubsection}{\numberline {A.1.2}Strategie 2: Allochtone kiezers stemmen op een willekeurige allochtone kandidaat.}{75}{subsubsection.A.1.2}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de allochtone kandidaten op basis van de peiling en de einduitslag.}{75}{subsubsection.A.1.2}
+\contentsline {paragraph}{Aantal allochtonen na strategie 2.}{76}{figure.caption.47}
+\contentsline {paragraph}{Hetzelfde aantal allochtonen in de Tweede Kamer als bij strategie 1.}{76}{figure.caption.48}
+\contentsline {subsection}{\numberline {A.2}Bevolkingsgroep: Ouderen.}{77}{subsection.A.2}
+\contentsline {paragraph}{Aannames en Regels.}{77}{subsection.A.2}
+\contentsline {paragraph}{Het berekenen van het aantal te verwachten ouderen stemmen.}{77}{subsection.A.2}
+\contentsline {paragraph}{Het berekenen van het daadwerkelijke aantal oudere stemmen.}{77}{table.caption.49}
+\contentsline {subsubsection}{\numberline {A.2.1}Strategie 1: Oudere kiezers stemmen op top \textit {N} ouderen kandidaten.}{78}{subsubsection.A.2.1}
+\contentsline {paragraph}{Verdelingen zetels en aantal oudere kandidaten.}{78}{subsubsection.A.2.1}
+\contentsline {paragraph}{Maximaal aantal ouderen per partij(top \textit {N}) dat in de Tweede Kamer gekozen kan worden.}{79}{figure.caption.51}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{79}{table.caption.52}
+\contentsline {paragraph}{Aantal ouderen na strategie 1.}{80}{figure.caption.53}
+\contentsline {paragraph}{Minder vrouwen dan 95 ouderen in de Tweede Kamer na uitvoering van strategie 1.}{80}{figure.caption.54}
+\contentsline {subsubsection}{\numberline {A.2.2}Strategie 2: Oudere kiezers stemmen op een willekeurige oudere kandidaat.}{80}{subsubsection.A.2.2}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{80}{subsubsection.A.2.2}
+\contentsline {paragraph}{Aantal ouderen na strategie 2.}{81}{figure.caption.55}
+\contentsline {paragraph}{\IeC {\'E}\IeC {\'e}n oudere minder in de Tweede Kamer ten opzicht van strategie 1.}{81}{figure.caption.56}
+\contentsline {subsubsection}{\numberline {A.2.3}Strategie 3.1: Oudere kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste 15 oudere kandidaten van een partij.}{82}{subsubsection.A.2.3}
+\contentsline {paragraph}{Partijen met minstens 15 oudere kandidaten en partijen met minder dan 15 oudere kandidaten.}{82}{subsubsection.A.2.3}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{82}{figure.caption.57}
+\contentsline {paragraph}{Aantal ouderen na strategie 3.1.}{83}{figure.caption.58}
+\contentsline {paragraph}{Minder vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 3.1 dan d.m.v. uitvoering van strategie 2.}{84}{figure.caption.59}
+\contentsline {subsubsection}{\numberline {A.2.4}Strategie 3.2: Oudere kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste \textit {N} oudere kandidaten van een partij.}{84}{subsubsection.A.2.4}
+\contentsline {paragraph}{Voor elke partij de eigen \textit {N} bepalen.}{84}{subsubsection.A.2.4}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{84}{figure.caption.60}
+\contentsline {paragraph}{Aantal ouderen na strategie 3.2.}{85}{figure.caption.61}
+\contentsline {paragraph}{Meer vrouwen in de Tweede Kamer d.m.v. uitvoering van strategie 3.2 dan d.m.v. uitvoering van strategie 3.1.}{86}{figure.caption.62}
+\contentsline {subsubsection}{\numberline {A.2.5}Strategie 4: Ouderen kiezers stemmen op de top \textit {N+extra percentage} oudere kandidaten van een partij.}{86}{subsubsection.A.2.5}
+\contentsline {paragraph}{Speling in top \textit {N}.}{86}{subsubsection.A.2.5}
+\contentsline {paragraph}{Maximaal aantal ouderen per partij(top \textit {N+extra percentage}) dat in de Tweede Kamer gekozen kan worden.}{86}{subsubsection.A.2.5}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de oudere kandidaten op basis van de peiling en de einduitslag.}{87}{figure.caption.63}
+\contentsline {paragraph}{Aantal ouderen na strategie 4.}{88}{figure.caption.64}
+\contentsline {paragraph}{Niet meer maar minder ouderen na uitvoering van strategie 4.}{89}{figure.caption.65}
+\contentsline {paragraph}{Niet meer dan 89 ouderen in de Tweede Kamer.}{89}{figure.caption.65}
+\contentsline {subsection}{\numberline {A.3}Bevolkingsgroep: Provincialen.}{89}{subsection.A.3}
+\contentsline {paragraph}{Aannames en Regels.}{89}{subsection.A.3}
+\contentsline {paragraph}{Het berekenen van het aantal te verwachten provinciale stemmen.}{90}{subsection.A.3}
+\contentsline {paragraph}{Het berekenen van het daadwerkelijke aantal provinciale stemmen.}{90}{table.caption.66}
+\contentsline {subsubsection}{\numberline {A.3.1}Strategie 1: Provinciale kiezers stemmen op top \textit {N} Provinciale kandidaten.}{90}{subsubsection.A.3.1}
+\contentsline {paragraph}{Verdelingen zetels en aantal Provinciale kandidaten.}{90}{subsubsection.A.3.1}
+\contentsline {paragraph}{Maximaal aantal provincialen per partij(top \textit {N}) dat in de Tweede Kamer gekozen kan worden.}{91}{figure.caption.68}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{91}{table.caption.69}
+\contentsline {paragraph}{Aantal provincialen na strategie 1.}{92}{figure.caption.70}
+\contentsline {paragraph}{Minder dan 147 provincialen in de Tweede Kamer na uitvoering van strategie 1.}{93}{figure.caption.71}
+\contentsline {subsubsection}{\numberline {A.3.2}Strategie 2: Provinciale kiezers stemmen op een willekeurige provinciale kandidaat.}{93}{subsubsection.A.3.2}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{93}{subsubsection.A.3.2}
+\contentsline {paragraph}{Aantal provincialen na strategie 2.}{94}{figure.caption.72}
+\contentsline {paragraph}{Zeven provincialen minder in de Tweede Kamer ten opzicht van strategie 1.}{94}{figure.caption.73}
+\contentsline {subsubsection}{\numberline {A.3.3}Strategie 3.1: Provinciale kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste 15 provinciale kandidaten van een partij.}{95}{subsubsection.A.3.3}
+\contentsline {paragraph}{Partijen met minstens 15 provinciale kandidaten en partijen met minder dan 15 provinciale kandidaten.}{95}{subsubsection.A.3.3}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{95}{figure.caption.74}
+\contentsline {paragraph}{Aantal provincialen na strategie 3.1.}{96}{figure.caption.75}
+\contentsline {paragraph}{Minder provincialen in de Tweede Kamer d.m.v. uitvoering van strategie 3.1 dan d.m.v. uitvoering van strategie 2.}{96}{figure.caption.76}
+\contentsline {subsubsection}{\numberline {A.3.4}Strategie 3.2: Provinciale kiezers stemmen willekeurige op \IeC {\'e}\IeC {\'e}n van de eerste \textit {N} provinciale kandidaten van een partij.}{97}{subsubsection.A.3.4}
+\contentsline {paragraph}{Voor elke partij de eigen \textit {N} bepalen.}{97}{subsubsection.A.3.4}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{97}{figure.caption.77}
+\contentsline {paragraph}{Aantal provincialen na strategie 3.2.}{98}{figure.caption.78}
+\contentsline {paragraph}{Meer provincialen in de Tweede Kamer d.m.v. uitvoering van strategie 3.2 dan d.m.v. uitvoering van strategie 3.1.}{98}{figure.caption.79}
+\contentsline {subsubsection}{\numberline {A.3.5}Strategie 4: Provinciale kiezers stemmen op de top \textit {N+extra percentage} provinciale kandidaten van een partij.}{99}{subsubsection.A.3.5}
+\contentsline {paragraph}{Speling in top \textit {N}.}{99}{subsubsection.A.3.5}
+\contentsline {paragraph}{Maximaal aantal provinciale per partij(top \textit {N+extra percentage}) dat in de Tweede Kamer gekozen kan worden.}{99}{subsubsection.A.3.5}
+\contentsline {paragraph}{Het toewijzen van de stemmen aan de provinciale kandidaten op basis van de peiling en de einduitslag.}{100}{figure.caption.80}
+\contentsline {paragraph}{Aantal provincialen na strategie 4.}{100}{figure.caption.81}
+\contentsline {paragraph}{Niet meer provincialen na uitvoering van strategie 4.}{101}{figure.caption.82}
+\contentsline {paragraph}{Niet meer dan 142 provincialen in de Tweede Kamer.}{101}{figure.caption.82}
+\contentsline {section}{\numberline {B}Bijlage 2.}{102}{appendix.B}

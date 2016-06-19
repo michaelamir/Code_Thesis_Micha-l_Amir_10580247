@@ -6,43 +6,43 @@ Warning--entry type for "Kiesraad_voorkeursdrempel2" isn't style-file defined
 Warning--entry type for "nashprinceton" isn't style-file defined
 --line 25 of file literature.bib
 Warning--entry type for "Kiesraad_databank" isn't style-file defined
---line 107 of file literature.bib
+--line 147 of file literature.bib
 Warning--entry type for "Kiesraad_uitslag" isn't style-file defined
---line 115 of file literature.bib
+--line 155 of file literature.bib
 Warning--entry type for "kieswetje" isn't style-file defined
---line 132 of file literature.bib
+--line 172 of file literature.bib
 Warning--entry type for "navigerennaardetop" isn't style-file defined
---line 173 of file literature.bib
+--line 215 of file literature.bib
 Warning--entry type for "Kiesraad_kandidatenlijsten" isn't style-file defined
---line 181 of file literature.bib
+--line 223 of file literature.bib
 Warning--entry type for "CBS_allochtonen" isn't style-file defined
---line 190 of file literature.bib
+--line 232 of file literature.bib
 Warning--entry type for "CBS_stemgedrag" isn't style-file defined
---line 199 of file literature.bib
+--line 241 of file literature.bib
 Warning--entry type for "Opiniehuis" isn't style-file defined
---line 208 of file literature.bib
+--line 250 of file literature.bib
 Warning--entry type for "allekandidaten" isn't style-file defined
---line 219 of file literature.bib
+--line 261 of file literature.bib
 Warning--entry type for "randstad" isn't style-file defined
---line 231 of file literature.bib
+--line 273 of file literature.bib
 Warning--entry type for "trouwhaarlem" isn't style-file defined
---line 249 of file literature.bib
+--line 291 of file literature.bib
 Warning--entry type for "HPhaarlem" isn't style-file defined
---line 259 of file literature.bib
+--line 301 of file literature.bib
 Warning--entry type for "gemeentewoerden" isn't style-file defined
---line 271 of file literature.bib
+--line 313 of file literature.bib
 Warning--entry type for "villaberlage" isn't style-file defined
---line 281 of file literature.bib
+--line 323 of file literature.bib
 Warning--entry type for "SIO" isn't style-file defined
---line 370 of file literature.bib
+--line 412 of file literature.bib
 Warning--entry type for "allochtonie" isn't style-file defined
---line 382 of file literature.bib
+--line 424 of file literature.bib
 Warning--entry type for "binnenlandsbestuur" isn't style-file defined
---line 393 of file literature.bib
+--line 435 of file literature.bib
 Warning--entry type for "volkskrantjenny" isn't style-file defined
---line 405 of file literature.bib
+--line 447 of file literature.bib
 Warning--entry type for "zaman" isn't style-file defined
---line 413 of file literature.bib
+--line 455 of file literature.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--`others' not consistent with 6th ed. of the APA Manual
 Warning--No address in daft1983information
@@ -52,4 +52,5 @@ Warning--`others' not consistent with 6th ed. of the APA Manual
 Warning--No address in rukhin2001statistical
 Warning--`others' not consistent with 6th ed. of the APA Manual
 Warning--`others' not consistent with 6th ed. of the APA Manual
-(There were 29 warnings)
+Warning--No journal in yergeau2003utf
+(There were 30 warnings)

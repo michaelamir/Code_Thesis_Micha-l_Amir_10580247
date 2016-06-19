@@ -1,5 +1,30 @@
-
 \begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+4nieuws.nl%
+}{%
+4nieuws.nl%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Stemw68:online}
+\APACinsertmetastar {%
+Stemw68:online}%
+\begin{APACrefauthors}%
+4nieuws.nl.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Stemwijzer voor ouderen online.} {Stemwijzer voor ouderen
+  online.}
+\newblock
+\APAChowpublished
+  {\url{http://4nieuws.nl/binnenland/389055/stemwijzer-voor-ouderen-online.html}}.
+\newblock
+\APACrefnote{(Accessed on 06/15/2016)}
+\PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
 Aalberts%
@@ -23,32 +48,6 @@ Aalberts, C.%
   jongeren en popularisering van politiek}.
 \newblock
 \APACaddressPublisher{}{Het Spinhuis}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Ad.nl%
-}{%
-Ad.nl%
-}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
-}]{%
-Stemw68:online}
-\APACinsertmetastar {%
-Stemw68:online}%
-\begin{APACrefauthors}%
-Ad.nl.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
-\newblock
-\APACrefbtitle {Stemwijzer voor ouderen online.} {Stemwijzer voor ouderen
-  online.}
-\newblock
-\APAChowpublished
-  {\url{http://4nieuws.nl/binnenland/389055/stemwijzer-voor-ouderen-online.html}}.
-\newblock
-\APACrefnote{(Accessed on 06/15/2016)}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -592,6 +591,31 @@ Davis, F\BPBI D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Deveria%
+}{%
+Deveria%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+CanIu25:online}
+\APACinsertmetastar {%
+CanIu25:online}%
+\begin{APACrefauthors}%
+Deveria, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {Can I use... Support tables for HTML5, CSS3, etc.} {Can i
+  use... support tables for html5, css3, etc.}
+\newblock
+\APAChowpublished {\url{http://caniuse.com/#feat=svg}}.
+\newblock
+\APACrefnote{(Accessed on 06/18/2016)}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 De~Witte%
 \ \BBA {} Klandermans%
 }{%
@@ -667,6 +691,31 @@ Drezner, D.%
 \APACrefbtitle {The power and politics of blogs. American Political Science
   Association.} {The power and politics of blogs. american political science
   association.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Encyclo.nl%
+}{%
+Encyclo.nl%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Rands36:online}
+\APACinsertmetastar {%
+Rands36:online}%
+\begin{APACrefauthors}%
+Encyclo.nl.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\APACrefbtitle {Randstedeling - 2 definities - Encyclo.} {Randstedeling - 2
+  definities - encyclo.}
+\newblock
+\APAChowpublished {\url{http://www.encyclo.nl/begrip/Randstedeling}}.
+\newblock
+\APACrefnote{(Accessed on 06/13/2016)}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -835,7 +884,7 @@ IPSOS%
 IPSOS%
 }{%
 {\protect \APACyear {2012}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
 IPSOS}
 \APACinsertmetastar {%
 IPSOS}%
@@ -844,9 +893,32 @@ IPSOS.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2012}{}{}.
+\APACrefYearMonthDay{2012{\protect \BCnt {1}}}{}{}.
 \newblock
 \APACrefbtitle {Peiling 11 september 2012.} {Peiling 11 september 2012.}
+\newblock
+\APACrefnote{verkregen van IPSOS Nederland}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+IPSOS%
+}{%
+IPSOS%
+}{%
+{\protect \APACyear {2012}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+IPSOS_man_vrouw}
+\APACinsertmetastar {%
+IPSOS_man_vrouw}%
+\begin{APACrefauthors}%
+IPSOS.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {Sociaal-demografische Profielen.} {Sociaal-demografische
+  profielen.}
 \newblock
 \APACrefnote{verkregen van IPSOS Nederland}
 \PrintBackRefs{\CurrentBib}
@@ -1004,25 +1076,6 @@ Kiesraad.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Kiesstelsels - Parlement \& Politiek}}{%
-\APACcitebtitle {Kiesstelsels - Parlement \& Politiek}}{%
-{\protect \APACyear {2012}}%
-}]{%
-Kiess35:online}
-\APACinsertmetastar {%
-Kiess35:online}%
-\APACrefbtitle {Kiesstelsels - Parlement \& Politiek.} {Kiesstelsels -
-  parlement \& politiek.}
-\newblock
-\APACrefYearMonthDay{2012}{}{}.
-\newblock
-\APAChowpublished
-  {\url{http://www.parlement.com/id/vhnnmt7ieeyb/kiesstelsels}}.
-\newblock
-\APACrefnote{(Accessed on 06/13/2016)}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Kleinnijenhuis%
 \ \protect \BOthers {.}}{%
 Kleinnijenhuis%
@@ -1107,6 +1160,33 @@ Lawson, C.%
   appearance and electoral success in new democracies}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{World Politics}{62}{4}{561--593}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lebut%
+}{%
+Lebut%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+image39:online}
+\APACinsertmetastar {%
+image39:online}%
+\begin{APACrefauthors}%
+Lebut, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {image - PNG vs. GIF vs. JPEG vs. SVG - When best to use? -
+  Stack Overflow.} {image - png vs. gif vs. jpeg vs. svg - when best to use? -
+  stack overflow.}
+\newblock
+\APAChowpublished
+  {\url{http://stackoverflow.com/questions/2336522/png-vs-gif-vs-jpeg-vs-svg-when-best-to-use}}.
+\newblock
+\APACrefnote{(Accessed on 06/18/2016)}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1324,6 +1404,29 @@ Meijers, E.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Miano%
+}{%
+Miano%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+miano1999compressed}
+\APACinsertmetastar {%
+miano1999compressed}%
+\begin{APACrefauthors}%
+Miano, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {Compressed image file formats: Jpeg, png, gif, xbm, bmp}
+  {Compressed image file formats: Jpeg, png, gif, xbm, bmp}.
+\newblock
+\APACaddressPublisher{}{Addison-Wesley Professional}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Ministerie~van Onderwijs%
 }{%
 Ministerie~van Onderwijs%
@@ -1518,6 +1621,32 @@ Oracle.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Parlement.com%
+}{%
+Parlement.com%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Kiess35:online}
+\APACinsertmetastar {%
+Kiess35:online}%
+\begin{APACrefauthors}%
+Parlement.com.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\APACrefbtitle {Kiesstelsels - Parlement \& Politiek.} {Kiesstelsels -
+  parlement \& politiek.}
+\newblock
+\APAChowpublished
+  {\url{http://www.parlement.com/id/vhnnmt7ieeyb/kiesstelsels}}.
+\newblock
+\APACrefnote{(Accessed on 06/13/2016)}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Parlement.nl%
 }{%
 Parlement.nl%
@@ -1590,24 +1719,6 @@ QuotaProject.org.%
 \APAChowpublished {\url{http://www.quotaproject.org/}}.
 \newblock
 \APACrefnote{(Accessed on 06/14/2016)}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Randstedeling - 2 definities - Encyclo}}{%
-\APACcitebtitle {Randstedeling - 2 definities - Encyclo}}{%
-{\protect \APACyear {2012}}%
-}]{%
-Rands36:online}
-\APACinsertmetastar {%
-Rands36:online}%
-\APACrefbtitle {Randstedeling - 2 definities - Encyclo.} {Randstedeling - 2
-  definities - encyclo.}
-\newblock
-\APACrefYearMonthDay{2012}{}{}.
-\newblock
-\APAChowpublished {\url{http://www.encyclo.nl/begrip/Randstedeling}}.
-\newblock
-\APACrefnote{(Accessed on 06/13/2016)}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2058,30 +2169,6 @@ Van~Kessel, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-van Steenis%
-}{%
-van Steenis%
-}{%
-{\protect \APACyear {2013}}%
-}]{%
-van2013kieskompas}
-\APACinsertmetastar {%
-van2013kieskompas}%
-\begin{APACrefauthors}%
-van Steenis, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2013}{}{}.
-\newblock
-\APACrefbtitle {Kieskompas, een goede navigator naar uw positie? Een
-  kwalitatief onderzoek naar het gebruik van het stemadviesinstrument
-  ‘Kieskompas 2012’.} {Kieskompas, een goede navigator naar uw positie? een
-  kwalitatief onderzoek naar het gebruik van het stemadviesinstrument
-  ‘kieskompas 2012’.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Venkatesh%
 }{%
 Venkatesh%
@@ -2284,6 +2371,29 @@ Woerden, G.%
 \begin{APACrefURL}
   [{2016-05-16}]\url{https://www.woerden.nl/sites/default/files/Besluitenlijsten/2014/4.8%20%20bestuursconvenant%20samenwerking%20alphen,%20gouda%20woerden.pdf}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yergeau%
+}{%
+Yergeau%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+yergeau2003utf}
+\APACinsertmetastar {%
+yergeau2003utf}%
+\begin{APACrefauthors}%
+Yergeau, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {UTF-8, a transformation format of ISO 10646} {Utf-8, a
+  transformation format of iso 10646}.{\BBCQ}
+\newblock
+
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

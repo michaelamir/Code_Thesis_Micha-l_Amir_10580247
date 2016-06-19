@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.20)  17 JUN 2016 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.20)  19 JUN 2016 18:06
 entering extended mode
 **./main.tex
 (main.tex
@@ -633,6 +633,28 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathto
+ols.sty"
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetu
+p.sty"
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count124
+\l_MT_multwidth_dim=\dimen151
+\origjot=\skip50
+\l_MT_shortvdotswithinadjustabove_dim=\dimen152
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen153
+\l_MT_above_intertext_sep=\dimen154
+\l_MT_below_intertext_sep=\dimen155
+\l_MT_above_shortintertext_sep=\dimen156
+\l_MT_below_shortintertext_sep=\dimen157
+)
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todono
 tes.sty"
 Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
@@ -649,7 +671,7 @@ ls.tex"
 \XKV@toks=\toks26
 \XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count124
+\XKV@depth=\count125
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlaye
@@ -661,8 +683,8 @@ frcs.sty"
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
 pgfutil-common.tex"
 \pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen151
-\pgfutil@tempdimb=\dimen152
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
 pgfutil-common-lists.tex"))
@@ -696,20 +718,20 @@ pgfkeys.code.tex"
 pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks31
 ))
-\pgf@x=\dimen153
-\pgf@y=\dimen154
-\pgf@xa=\dimen155
-\pgf@ya=\dimen156
-\pgf@xb=\dimen157
-\pgf@yb=\dimen158
-\pgf@xc=\dimen159
-\pgf@yc=\dimen160
+\pgf@x=\dimen160
+\pgf@y=\dimen161
+\pgf@xa=\dimen162
+\pgf@ya=\dimen163
+\pgf@xb=\dimen164
+\pgf@yb=\dimen165
+\pgf@xc=\dimen166
+\pgf@yc=\dimen167
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count125
-\c@pgf@countb=\count126
-\c@pgf@countc=\count127
-\c@pgf@countd=\count128
+\c@pgf@counta=\count126
+\c@pgf@countb=\count127
+\c@pgf@countc=\count128
+\c@pgf@countd=\count129
 \t@pgf@toka=\toks32
 \t@pgf@tokb=\toks33
 \t@pgf@tokc=\toks34
@@ -731,8 +753,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlaye
 r\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count129
-\pgfsyssoftpath@bigbuffer@items=\count130
+\pgfsyssoftpath@smallbuffer@items=\count130
+\pgfsyssoftpath@bigbuffer@items=\count131
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlaye
 r\pgfsysprotocol.code.tex"
@@ -750,8 +772,8 @@ thcalc.code.tex"
 thutil.code.tex")
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
 thparser.code.tex"
-\pgfmath@dimen=\dimen161
-\pgfmath@count=\count131
+\pgfmath@dimen=\dimen168
+\pgfmath@count=\count132
 \pgfmath@box=\box33
 \pgfmath@toks=\toks35
 \pgfmath@stack@operand=\toks36
@@ -777,37 +799,37 @@ thfunctions.misc.code.tex")
 thfunctions.integerarithmetics.code.tex")))
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
 thfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count132
+\c@pgfmathroundto@lastzeros=\count133
 ))
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen162
-\pgf@picmaxx=\dimen163
-\pgf@picminy=\dimen164
-\pgf@picmaxy=\dimen165
-\pgf@pathminx=\dimen166
-\pgf@pathmaxx=\dimen167
-\pgf@pathminy=\dimen168
-\pgf@pathmaxy=\dimen169
-\pgf@xx=\dimen170
-\pgf@xy=\dimen171
-\pgf@yx=\dimen172
-\pgf@yy=\dimen173
-\pgf@zx=\dimen174
-\pgf@zy=\dimen175
+\pgf@picminx=\dimen169
+\pgf@picmaxx=\dimen170
+\pgf@picminy=\dimen171
+\pgf@picmaxy=\dimen172
+\pgf@pathminx=\dimen173
+\pgf@pathmaxx=\dimen174
+\pgf@pathminy=\dimen175
+\pgf@pathmaxy=\dimen176
+\pgf@xx=\dimen177
+\pgf@xy=\dimen178
+\pgf@yx=\dimen179
+\pgf@yy=\dimen180
+\pgf@zx=\dimen181
+\pgf@zy=\dimen182
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen176
-\pgf@path@lasty=\dimen177
+\pgf@path@lastx=\dimen183
+\pgf@path@lasty=\dimen184
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen178
-\pgf@shorten@start@additional=\dimen179
+\pgf@shorten@end@additional=\dimen185
+\pgf@shorten@start@additional=\dimen186
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcorescopes.code.tex"
@@ -815,19 +837,19 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box34
 \pgf@hbox=\box35
 \pgf@layerbox@main=\box36
-\pgf@picture@serial@count=\count133
+\pgf@picture@serial@count=\count134
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen180
+\pgflinewidth=\dimen187
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen181
-\pgf@pt@y=\dimen182
-\pgf@pt@temp=\dimen183
+\pgf@pt@x=\dimen188
+\pgf@pt@y=\dimen189
+\pgf@pt@temp=\dimen190
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcorequick.code.tex"
@@ -844,13 +866,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen184
+\pgfarrowsep=\dimen191
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen185
-\pgf@sys@shading@range@num=\count134
+\pgf@max=\dimen192
+\pgf@sys@shading@range@num=\count135
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
 \pgfcoreimage.code.tex"
@@ -885,8 +907,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibilit
 y\pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen186
-\pgf@nodesepend=\dimen187
+\pgf@nodesepstart=\dimen193
+\pgf@nodesepend=\dimen194
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibilit
 y\pgfcomp-version-1-18.sty"
@@ -908,8 +930,8 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
 th.code.tex")
-\pgffor@iter=\dimen188
-\pgffor@skip=\dimen189
+\pgffor@iter=\dimen195
+\pgffor@skip=\dimen196
 \pgffor@stack=\toks38
 \pgffor@toks=\toks39
 ))
@@ -920,32 +942,32 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\
 pgflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count135
-\pgfplotmarksize=\dimen190
+\pgf@plot@mark@count=\count136
+\pgfplotmarksize=\dimen197
 )
-\tikz@lastx=\dimen191
-\tikz@lasty=\dimen192
-\tikz@lastxsaved=\dimen193
-\tikz@lastysaved=\dimen194
-\tikzleveldistance=\dimen195
-\tikzsiblingdistance=\dimen196
+\tikz@lastx=\dimen198
+\tikz@lasty=\dimen199
+\tikz@lastxsaved=\dimen256
+\tikz@lastysaved=\dimen257
+\tikzleveldistance=\dimen258
+\tikzsiblingdistance=\dimen259
 \tikz@figbox=\box39
 \tikz@figbox@bg=\box40
 \tikz@tempbox=\box41
 \tikz@tempbox@bg=\box42
-\tikztreelevel=\count136
-\tikznumberofchildren=\count137
-\tikznumberofcurrentchild=\count138
-\tikz@fig@count=\count139
+\tikztreelevel=\count137
+\tikznumberofchildren=\count138
+\tikznumberofcurrentchild=\count139
+\tikz@fig@count=\count140
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pg
 fmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count140
-\pgfmatrixcurrentcolumn=\count141
-\pgf@matrix@numberofcolumns=\count142
+\pgfmatrixcurrentrow=\count141
+\pgfmatrixcurrentcolumn=\count142
+\pgf@matrix@numberofcolumns=\count143
 )
-\tikz@expandcount=\count143
+\tikz@expandcount=\count144
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendla
 yer\tikz\libraries\tikzlibrarytopaths.code.tex"
@@ -955,28 +977,28 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 yer\tikz\libraries\tikzlibrarypositioning.code.tex"
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
-\c@@todonotes@numberoftodonotes=\count144
+\c@@todonotes@numberoftodonotes=\count145
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listing
 s.sty"
-\lst@mode=\count145
+\lst@mode=\count146
 \lst@gtempboxa=\box43
 \lst@token=\toks40
-\lst@length=\count146
-\lst@currlwidth=\dimen197
-\lst@column=\count147
-\lst@pos=\count148
-\lst@lostspace=\dimen198
-\lst@width=\dimen199
-\lst@newlines=\count149
-\lst@lineno=\count150
-\lst@maxwidth=\dimen256
+\lst@length=\count147
+\lst@currlwidth=\dimen260
+\lst@column=\count148
+\lst@pos=\count149
+\lst@lostspace=\dimen261
+\lst@width=\dimen262
+\lst@newlines=\count150
+\lst@lineno=\count151
+\lst@maxwidth=\dimen263
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc
 .sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count151
-\lst@skipnumbers=\count152
+\c@lstnumber=\count152
+\lst@skipnumbers=\count153
 \lst@framebox=\box44
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listing
@@ -1007,15 +1029,15 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbo
 x.sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count153
+\etb@tempcnta=\count154
 )
 \tcb@titlebox=\box45
 \tcb@upperbox=\box46
 \tcb@lowerbox=\box47
 \tcb@phantombox=\box48
-\c@tcbbreakpart=\count154
-\c@tcblayer=\count155
-\tcolorbox@number=\count156
+\c@tcbbreakpart=\count155
+\c@tcblayer=\count156
+\tcolorbox@number=\count157
 \tcb@temp=\box49
 \tcb@temp=\box50
 \tcb@temp=\box51
@@ -1026,8 +1048,8 @@ Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcapti
 on.sty"
 Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
-\c@subfigure=\count157
-\c@subtable=\count158
+\c@subfigure=\count158
+\c@subtable=\count159
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.s
 ty"
@@ -1035,66 +1057,66 @@ Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen257
-\extrarowheight=\dimen258
+\col@sep=\dimen264
+\extrarowheight=\dimen265
 \NC@list=\toks43
-\extratabsurround=\skip50
-\backup@length=\skip51
+\extratabsurround=\skip51
+\backup@length=\skip52
 )
-\TX@col@width=\dimen259
-\TX@old@table=\dimen260
-\TX@old@col=\dimen261
-\TX@target=\dimen262
-\TX@delta=\dimen263
-\TX@cols=\count159
+\TX@col@width=\dimen266
+\TX@old@table=\dimen267
+\TX@old@col=\dimen268
+\TX@target=\dimen269
+\TX@delta=\dimen270
+\TX@cols=\count160
 \TX@ftn=\toks44
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\apacite\apacite.
 sty"
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count160
-\bibleftmargin=\skip52
-\bibindent=\skip53
-\bibparsep=\skip54
-\bibitemsep=\skip55
-\biblabelsep=\skip56
+\c@BibCnt=\count161
+\bibleftmargin=\skip53
+\bibindent=\skip54
+\bibparsep=\skip55
+\bibitemsep=\skip56
+\biblabelsep=\skip57
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumite
 m.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip57
-\enit@outerparindent=\dimen264
+\labelindent=\skip58
+\enit@outerparindent=\dimen271
 \enit@toks=\toks45
 \enit@inbox=\box53
-\enitdp@description=\count161
+\enitdp@description=\count162
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.st
 y"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count162
+\c@lips@count=\count163
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlese
 c.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box54
-\beforetitleunit=\skip58
-\aftertitleunit=\skip59
-\ttl@plus=\dimen265
-\ttl@minus=\dimen266
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
+\ttl@plus=\dimen272
+\ttl@minus=\dimen273
 \ttl@toksa=\toks46
-\titlewidth=\dimen267
-\titlewidthlast=\dimen268
-\titlewidthfirst=\dimen269
+\titlewidth=\dimen274
+\titlewidthlast=\dimen275
+\titlewidthfirst=\dimen276
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.st
 y"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip60
-\bibsep=\skip61
+\bibhang=\skip61
+\bibsep=\skip62
 LaTeX Info: Redefining \cite on input line 694.
 LaTeX Info: Redefining \citeauthor on input line 712.
 LaTeX Info: Redefining \citeyear on input line 735.
-\c@NAT@ctr=\count163
+\c@NAT@ctr=\count164
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\ltxtabl
 e.sty"
@@ -1103,20 +1125,20 @@ Package: ltxtable 1995/12/11 v0.2 longtable/tabularx merge (DPC)
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.
 sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip62
-\LTright=\skip63
-\LTpre=\skip64
-\LTpost=\skip65
-\LTchunksize=\count164
-\LTcapwidth=\dimen270
+\LTleft=\skip63
+\LTright=\skip64
+\LTpre=\skip65
+\LTpost=\skip66
+\LTchunksize=\count165
+\LTcapwidth=\dimen277
 \LT@head=\box55
 \LT@firsthead=\box56
 \LT@foot=\box57
 \LT@lastfoot=\box58
-\LT@cols=\count165
-\LT@rows=\count166
-\c@LT@tables=\count167
-\c@LT@chunks=\count168
+\LT@cols=\count166
+\LT@rows=\count167
+\c@LT@tables=\count168
+\c@LT@chunks=\count169
 \LT@p@ftn=\toks47
 ))
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbib
@@ -1136,9 +1158,9 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headfont=\toks50
 \thm@notefont=\toks51
 \thm@headpunct=\toks52
-\thm@preskip=\skip66
-\thm@postskip=\skip67
-\thm@headsep=\skip68
+\thm@preskip=\skip67
+\thm@postskip=\skip68
+\thm@headsep=\skip69
 \dth@everypar=\toks53
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendla
@@ -1147,10 +1169,10 @@ File: tikzlibrarymatrix.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.4)
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tikzmark\tikzlib
 rarytikzmark.code.tex")
-\c@theorem=\count169
-\c@DV=\count170
-\c@SDV=\count171
-Package hyperref Info: Option `colorlinks' set `true' on input line 63.
+\c@theorem=\count170
+\c@DV=\count171
+\c@SDV=\count172
+Package hyperref Info: Option `colorlinks' set `true' on input line 64.
 
 
 LaTeX Warning: Unused global option(s):
@@ -1159,22 +1181,22 @@ LaTeX Warning: Unused global option(s):
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring ON on input line 67.
+Package hyperref Info: Link coloring ON on input line 68.
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
 .sty"
@@ -1184,11 +1206,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 tlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count172
+\c@section@level=\count173
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
  (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -1197,16 +1219,16 @@ LaTeX Info: Redefining \nameref on input line 67.
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
 mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count173
-\scratchdimen=\dimen271
+\scratchcounter=\count174
+\scratchdimen=\dimen278
 \scratchbox=\box60
-\nofMPsegments=\count174
-\nofMParguments=\count175
+\nofMPsegments=\count175
+\nofMParguments=\count176
 \everyMPshowfont=\toks54
-\MPscratchCnt=\count176
-\MPscratchDim=\dimen272
-\MPnumerator=\count177
-\makeMPintoPDFobject=\count178
+\MPscratchCnt=\count177
+\MPscratchDim=\dimen279
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
 \everyMPtoPDFconversion=\toks55
 )
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflsca
@@ -1263,8 +1285,8 @@ Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
  ABD: EveryShipout initializing macros
-\c@lstlisting=\count179
-\c@maskedRefs=\count180
+\c@lstlisting=\count180
+\c@maskedRefs=\count181
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\apacite\dutch.ap
 c"
@@ -1281,10 +1303,10 @@ LaTeX Info: Redefining \BHBI on input line 142.
  [3] [4]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 105.
+(hyperref)                setting the option has no effect on input line 108.
 
 (introductie.tex
-<verdeling_stemmen_2012.png, id=280, 1167.36125pt x 485.815pt>
+<verdeling_stemmen_2012.png, id=282, 1167.36125pt x 485.815pt>
 File: verdeling_stemmen_2012.png Graphic file (type png)
 
 <use verdeling_stemmen_2012.png>
@@ -1295,31 +1317,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
+
+Package array Warning: Column L is already defined on input line 29.
+
+
+Package array Warning: Column I is already defined on input line 30.
+
 [5 <./verdeling_stemmen_2012.png>]
-<aantal_zetels_bevolkingsgroepen.png, id=304, 557.08125pt x 371.3875pt>
+<aantal_zetels_bevolkingsgroepen.png, id=307, 557.08125pt x 371.3875pt>
 File: aantal_zetels_bevolkingsgroepen.png Graphic file (type png)
 
 <use aantal_zetels_bevolkingsgroepen.png>
 Package pdftex.def Info: aantal_zetels_bevolkingsgroepen.png used on input line
- 43.
+ 48.
 (pdftex.def)             Requested size: 217.33522pt x 144.88586pt.
- [6]
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-[7 <./aantal_zetels_bevolkingsgroepen.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+ [6 <./aantal_zetels_bevolkingsgroepen.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
@@ -1329,37 +1347,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
@@ -1378,12 +1396,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
-[9]) (gerelateerd_werk.tex [10] [11]) (data.tex [12]
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+[9]) (gerelateerd_werk.tex [10]) (data.tex [11]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
@@ -1395,161 +1423,150 @@ Package array Warning: Column L is already defined on input line 12.
 Package array Warning: Column I is already defined on input line 13.
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 23--23
+Underfull \hbox (badness 2426) in paragraph at lines 21--21
 []|\OT1/cmr/bx/n/10 Offici[]ele ver-kie-zingseind-
  []
 
 
-Package array Warning: Column L is already defined on input line 25.
+Package array Warning: Column L is already defined on input line 23.
 
 
-Package array Warning: Column I is already defined on input line 26.
+Package array Warning: Column I is already defined on input line 24.
 
 <peiling_zetels_landelijk.png, id=487, 936.49875pt x 578.16pt>
 File: peiling_zetels_landelijk.png Graphic file (type png)
 
 <use peiling_zetels_landelijk.png>
-Package pdftex.def Info: peiling_zetels_landelijk.png used on input line 34.
+Package pdftex.def Info: peiling_zetels_landelijk.png used on input line 32.
 (pdftex.def)             Requested size: 395.15277pt x 243.95476pt.
- [13]
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Package array Warning: Column L is already defined on input line 57.
+Package array Warning: Column L is already defined on input line 55.
 
 
-Package array Warning: Column I is already defined on input line 58.
+Package array Warning: Column I is already defined on input line 56.
 
 
-LaTeX Warning: Reference `sssec:vrouwen' on page 14 undefined on input line 64.
+LaTeX Warning: Reference `sssec:vrouwen' on page 13 undefined on input line 62.
 
 
 
-Package array Warning: Column L is already defined on input line 66.
+Package array Warning: Column L is already defined on input line 64.
 
 
-Package array Warning: Column I is already defined on input line 67.
+Package array Warning: Column I is already defined on input line 65.
 
-<mv_kandidaten.png, id=523, 451.6875pt x 376.40625pt>
+<mv_kandidaten.png, id=521, 451.6875pt x 376.40625pt>
 File: mv_kandidaten.png Graphic file (type png)
  <use mv_kandidaten.png>
-Package pdftex.def Info: mv_kandidaten.png used on input line 74.
+Package pdftex.def Info: mv_kandidaten.png used on input line 72.
 (pdftex.def)             Requested size: 165.96344pt x 138.30322pt.
 
-[14 <./peiling_zetels_landelijk.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+[13 <./peiling_zetels_landelijk.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 
-Package array Warning: Column L is already defined on input line 88.
+Package array Warning: Column L is already defined on input line 86.
 
 
-Package array Warning: Column I is already defined on input line 89.
+Package array Warning: Column I is already defined on input line 87.
 
 
-LaTeX Warning: Reference `sssec:allochtonen' on page 15 undefined on input line
- 97.
+LaTeX Warning: Reference `sssec:allochtonen' on page 14 undefined on input line
+ 95.
 
 
-LaTeX Warning: Reference `sssec:allochtonen' on page 15 undefined on input line
- 97.
+LaTeX Warning: Reference `sssec:allochtonen' on page 14 undefined on input line
+ 95.
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 97--97
+Underfull \hbox (badness 1072) in paragraph at lines 95--95
 []|\OT1/cmr/m/n/10 Stemgedrag van wes-terse en niet-westerse al-loch-to-nen
  []
 
 
-Package array Warning: Column L is already defined on input line 99.
+Package array Warning: Column L is already defined on input line 97.
 
 
-Package array Warning: Column I is already defined on input line 100.
+Package array Warning: Column I is already defined on input line 98.
 
-<aa_kandidaten.png, id=589, 451.6875pt x 426.59375pt>
+<aa_kandidaten.png, id=587, 451.6875pt x 426.59375pt>
 File: aa_kandidaten.png Graphic file (type png)
  <use aa_kandidaten.png>
-Package pdftex.def Info: aa_kandidaten.png used on input line 128.
+Package pdftex.def Info: aa_kandidaten.png used on input line 126.
 (pdftex.def)             Requested size: 165.96344pt x 156.74365pt.
 
-[15 <./mv_kandidaten.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+[14 <./mv_kandidaten.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-Package array Warning: Column L is already defined on input line 139.
+Package array Warning: Column L is already defined on input line 137.
 
 
-Package array Warning: Column I is already defined on input line 140.
+Package array Warning: Column I is already defined on input line 138.
 
-[16 <./aa_kandidaten.png>]
-<ja_kandidaten.png, id=635, 451.6875pt x 426.59375pt>
+[15 <./aa_kandidaten.png>]
+<ja_kandidaten.png, id=633, 451.6875pt x 426.59375pt>
 File: ja_kandidaten.png Graphic file (type png)
  <use ja_kandidaten.png>
-Package pdftex.def Info: ja_kandidaten.png used on input line 155.
+Package pdftex.def Info: ja_kandidaten.png used on input line 153.
 (pdftex.def)             Requested size: 165.96344pt x 156.74365pt.
 
-[17 <./ja_kandidaten.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+[16 <./ja_kandidaten.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
 
-Package array Warning: Column L is already defined on input line 167.
+Package array Warning: Column L is already defined on input line 165.
 
 
-Package array Warning: Column I is already defined on input line 168.
+Package array Warning: Column I is already defined on input line 166.
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 178--178
+Underfull \hbox (badness 1484) in paragraph at lines 176--176
 []|\OT1/cmr/m/n/10 Het aan-tal stem-ge-rech-tigde pro-vin-ci-a-len is tot stand
 
  []
 
 
-Package array Warning: Column L is already defined on input line 181.
+Package array Warning: Column L is already defined on input line 179.
 
 
-Package array Warning: Column I is already defined on input line 182.
+Package array Warning: Column I is already defined on input line 180.
 
-<rp_kandidaten.png, id=688, 451.6875pt x 432.61626pt>
+<rp_kandidaten.png, id=686, 451.6875pt x 432.61626pt>
 File: rp_kandidaten.png Graphic file (type png)
  <use rp_kandidaten.png>
-Package pdftex.def Info: rp_kandidaten.png used on input line 194.
+Package pdftex.def Info: rp_kandidaten.png used on input line 192.
 (pdftex.def)             Requested size: 165.96344pt x 158.95651pt.
 
-[18]) (theoretisch_maximum.tex [19 <./rp_kandidaten.png>]
-<overzicht_resultaten_strategien_plot.png, id=717, 1011.78pt x 500.87125pt>
-File: overzicht_resultaten_strategien_plot.png Graphic file (type png)
+[17]) (theoretisch_maximum.tex [18 <./rp_kandidaten.png>]
+<overzicht_resultaten_strategien_plot1.png, id=714, 1011.78pt x 500.87125pt>
+File: overzicht_resultaten_strategien_plot1.png Graphic file (type png)
 
-<use overzicht_resultaten_strategien_plot.png>
-Package pdftex.def Info: overzicht_resultaten_strategien_plot.png used on input
- line 44.
+<use overzicht_resultaten_strategien_plot1.png>
+Package pdftex.def Info: overzicht_resultaten_strategien_plot1.png used on inpu
+t line 44.
 (pdftex.def)             Requested size: 375.39392pt x 185.83916pt.
- [20 <./overzicht_resultaten_strategien_plot.png>] (figuur1.tex) [21]
-
-Package natbib Warning: Citation `IPSOS_man_vrouw' on page 22 undefined on inpu
-t line 75.
-
-(tabel2.tex)
-
-Package natbib Warning: Citation `IPSOS_man_vrouw' on page 22 undefined on inpu
-t line 84.
-
-
-Package natbib Warning: Citation `IPSOS_man_vrouw' on page 22 undefined on inpu
-t line 84.
-
+ [19 <./overzicht_resultaten_strategien_plot1.png>] (figuur1.tex) [20] (tabel2.
+tex)
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 98.
+
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
-[22]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
@@ -1560,143 +1577,147 @@ Package array Warning: Column L is already defined on input line 124.
 
 Package array Warning: Column I is already defined on input line 125.
 
-[23]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-<Aantal_vrouwen_aantal_zetels.png, id=765, 986.68625pt x 596.2275pt>
-File: Aantal_vrouwen_aantal_zetels.png Graphic file (type png)
+<Aantal_vrouwen_aantal_zetels1.png, id=768, 1004.75375pt x 596.2275pt>
+File: Aantal_vrouwen_aantal_zetels1.png Graphic file (type png)
 
-<use Aantal_vrouwen_aantal_zetels.png>
-Package pdftex.def Info: Aantal_vrouwen_aantal_zetels.png used on input line 16
-6.
-(pdftex.def)             Requested size: 395.15277pt x 238.7779pt.
- (topN_peiling_per_partij.tex) [24 <./Aantal_vrouwen_aantal_zetels.png>]
-<stemmen_op_vrouwen_topN_peiling.png, id=789, 1112.155pt x 479.7925pt>
+<use Aantal_vrouwen_aantal_zetels1.png>
+Package pdftex.def Info: Aantal_vrouwen_aantal_zetels1.png used on input line 1
+66.
+(pdftex.def)             Requested size: 395.15277pt x 234.4838pt.
+ (topN_peiling_per_partij.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23 <./Aantal_vrouwen_aantal_zetels1.png>]
+<stemmen_op_vrouwen_topN_peiling.png, id=792, 1112.155pt x 479.7925pt>
 File: stemmen_op_vrouwen_topN_peiling.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_topN_peiling.png>
 Package pdftex.def Info: stemmen_op_vrouwen_topN_peiling.png used on input line
  196.
 (pdftex.def)             Requested size: 395.15277pt x 170.47028pt.
- [25]
-<stemmen_op_vrouwen_topN_uitslag.png, id=805, 1112.155pt x 479.7925pt>
+ [24]
+<stemmen_op_vrouwen_topN_uitslag.png, id=807, 1112.155pt x 479.7925pt>
 File: stemmen_op_vrouwen_topN_uitslag.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_topN_uitslag.png>
 Package pdftex.def Info: stemmen_op_vrouwen_topN_uitslag.png used on input line
  215.
 (pdftex.def)             Requested size: 395.15277pt x 170.47028pt.
- [26 <./stemmen_op_vrouwen_topN_peiling.png>]
+ [25 <./stemmen_op_vrouwen_topN_peiling.png>]
 
-LaTeX Warning: Hyper reference `opstellen' on page 27 undefined on input line 2
+LaTeX Warning: Hyper reference `opstellen' on page 26 undefined on input line 2
 25.
 
-<pie_chart_topN.png, id=819, 703.62875pt x 685.56125pt>
+<pie_chart_topN.png, id=822, 703.62875pt x 685.56125pt>
 File: pie_chart_topN.png Graphic file (type png)
 
 <use pie_chart_topN.png>
 Package pdftex.def Info: pie_chart_topN.png used on input line 229.
 (pdftex.def)             Requested size: 138.30588pt x 134.74567pt.
- [27 <./stemmen_op_vrouwen_topN_uitslag.png> <./pie_chart_topN.png>]
+ [26 <./stemmen_op_vrouwen_topN_uitslag.png> <./pie_chart_topN.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
-<stemmen_op_vrouwen_willekeurig_samen.png, id=828, 1094.0875pt x 479.7925pt>
+<stemmen_op_vrouwen_willekeurig_samen.png, id=831, 1094.0875pt x 479.7925pt>
 File: stemmen_op_vrouwen_willekeurig_samen.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_willekeurig_samen.png>
 Package pdftex.def Info: stemmen_op_vrouwen_willekeurig_samen.png used on input
  line 255.
 (pdftex.def)             Requested size: 395.15277pt x 173.28888pt.
- [28]
-<pie_chart_willekeurig.png, id=836, 703.62875pt x 685.56125pt>
+ [27]
+<pie_chart_willekeurig.png, id=839, 703.62875pt x 685.56125pt>
 File: pie_chart_willekeurig.png Graphic file (type png)
 
 <use pie_chart_willekeurig.png>
 Package pdftex.def Info: pie_chart_willekeurig.png used on input line 273.
 (pdftex.def)             Requested size: 138.30588pt x 134.74567pt.
- [29 <./stemmen_op_vrouwen_willekeurig_samen.png> <./pie_chart_willekeurig.png>
+ [28 <./stemmen_op_vrouwen_willekeurig_samen.png> <./pie_chart_willekeurig.png>
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 294--295
 
  []
 
-<top15_of_topN_kandidaten.png, id=845, 986.68625pt x 578.16pt>
+<top15_of_topN_kandidaten.png, id=848, 986.68625pt x 578.16pt>
 File: top15_of_topN_kandidaten.png Graphic file (type png)
 
 <use top15_of_topN_kandidaten.png>
 Package pdftex.def Info: top15_of_topN_kandidaten.png used on input line 303.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
- [30]
-<stemmen_op_vrouwen_top15_of_topN_samen.png, id=853, 1094.0875pt x 479.7925pt>
+ [29]
+<stemmen_op_vrouwen_top15_of_topN_samen.png, id=856, 1094.0875pt x 479.7925pt>
 File: stemmen_op_vrouwen_top15_of_topN_samen.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_top15_of_topN_samen.png>
 Package pdftex.def Info: stemmen_op_vrouwen_top15_of_topN_samen.png used on inp
 ut line 319.
 (pdftex.def)             Requested size: 395.15277pt x 173.28888pt.
- [31 <./top15_of_topN_kandidaten.png>] <pie_chart_top15_of_topN.png, id=863, 70
+ [30 <./top15_of_topN_kandidaten.png>] <pie_chart_top15_of_topN.png, id=865, 70
 3.62875pt x 685.56125pt>
 File: pie_chart_top15_of_topN.png Graphic file (type png)
 
 <use pie_chart_top15_of_topN.png>
 Package pdftex.def Info: pie_chart_top15_of_topN.png used on input line 334.
 (pdftex.def)             Requested size: 138.30588pt x 134.74567pt.
- [32 <./stemmen_op_vrouwen_top15_of_topN_samen.png> <./pie_chart_top15_of_topN.
+ [31 <./stemmen_op_vrouwen_top15_of_topN_samen.png> <./pie_chart_top15_of_topN.
 png>]
-<eigenX_partijen.png, id=872, 986.68625pt x 578.16pt>
+<eigenX_partijen.png, id=875, 986.68625pt x 578.16pt>
 File: eigenX_partijen.png Graphic file (type png)
 
 <use eigenX_partijen.png>
 Package pdftex.def Info: eigenX_partijen.png used on input line 371.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
- [33]
-<stemmen_op_vrouwen_eigenX_samen.png, id=880, 1094.0875pt x 479.7925pt>
+ [32]
+<stemmen_op_vrouwen_eigenX_samen.png, id=883, 1094.0875pt x 479.7925pt>
 File: stemmen_op_vrouwen_eigenX_samen.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_eigenX_samen.png>
 Package pdftex.def Info: stemmen_op_vrouwen_eigenX_samen.png used on input line
  386.
 (pdftex.def)             Requested size: 395.15277pt x 173.28888pt.
- [34 <./eigenX_partijen.png> <./stemmen_op_vrouwen_eigenX_samen.png>]
-<pie_chart_eigenX.png, id=890, 703.62875pt x 685.56125pt>
+ [33 <./eigenX_partijen.png> <./stemmen_op_vrouwen_eigenX_samen.png>]
+<pie_chart_eigenX.png, id=893, 703.62875pt x 685.56125pt>
 File: pie_chart_eigenX.png Graphic file (type png)
 
 <use pie_chart_eigenX.png>
 Package pdftex.def Info: pie_chart_eigenX.png used on input line 401.
 (pdftex.def)             Requested size: 138.30588pt x 134.74567pt.
- [35 <./pie_chart_eigenX.png>]
+ [34 <./pie_chart_eigenX.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 418--420
 
  []
 
-[36] <topn_vermenigvuldiging2.png, id=906, 1226.5825pt x 730.73pt>
+[35] <topn_vermenigvuldiging2.png, id=909, 1226.5825pt x 730.73pt>
 File: topn_vermenigvuldiging2.png Graphic file (type png)
 
 <use topn_vermenigvuldiging2.png>
 Package pdftex.def Info: topn_vermenigvuldiging2.png used on input line 440.
 (pdftex.def)             Requested size: 395.15277pt x 235.41052pt.
- [37 <./topn_vermenigvuldiging2.png>]
-<stemmen_op_vrouwen_topNextrapercentage_samen.png, id=919, 1401.235pt x 879.285
+ [36 <./topn_vermenigvuldiging2.png>]
+<stemmen_op_vrouwen_topNextrapercentage_samen.png, id=922, 1401.235pt x 879.285
 pt>
 File: stemmen_op_vrouwen_topNextrapercentage_samen.png Graphic file (type png)
  <use stemmen_op_vrouwen_topNextrapercentage_samen.png>
 Package pdftex.def Info: stemmen_op_vrouwen_topNextrapercentage_samen.png used 
-on input line 457.
+on input line 459.
 (pdftex.def)             Requested size: 395.15277pt x 247.95572pt.
- [38 <./stemmen_op_vrouwen_topNextrapercentage_samen.png>]
-<topNextrapercentage_aantal_vrouwen_overzicht.png, id=927, 993.7125pt x 522.953
+ [37 <./stemmen_op_vrouwen_topNextrapercentage_samen.png>]
+<topNextrapercentage_aantal_vrouwen_overzicht.png, id=932, 993.7125pt x 522.953
 75pt>
 File: topNextrapercentage_aantal_vrouwen_overzicht.png Graphic file (type png)
  <use topNextrapercentage_aantal_vrouwen_overzicht.png>
 Package pdftex.def Info: topNextrapercentage_aantal_vrouwen_overzicht.png used 
-on input line 475.
+on input line 476.
 (pdftex.def)             Requested size: 395.15277pt x 207.95691pt.
- [39 <./topNextrapercentage_aantal_vrouwen_overzicht.png>]) (factoren_invloed.t
-ex [40]
+ [38 <./topNextrapercentage_aantal_vrouwen_overzicht.png>]) (factoren_invloed.t
+ex [39]
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
@@ -1718,25 +1739,25 @@ Underfull \hbox (badness 1546) in paragraph at lines 30--30
 \OT1/cmr/m/n/10 (bij-voor-beeld de be-vol-kings-groep man-nen te-gen-over
  []
 
-[41]
+[40]
 
-LaTeX Warning: Reference `sec:math' on page 42 undefined on input line 56.
+LaTeX Warning: Reference `sec:math' on page 41 undefined on input line 56.
 
-[42] (hoogst_vrouwen_voorkeurstemmen_tabel.tex) [43]
-<percentages_van_vrouwenS1S2.png, id=975, 1011.78pt x 528.97626pt>
+[41] (hoogst_vrouwen_voorkeurstemmen_tabel.tex) [42]
+<percentages_van_vrouwenS1S2.png, id=978, 1011.78pt x 528.97626pt>
 File: percentages_van_vrouwenS1S2.png Graphic file (type png)
 
 <use percentages_van_vrouwenS1S2.png>
 Package pdftex.def Info: percentages_van_vrouwenS1S2.png used on input line 85.
 
 (pdftex.def)             Requested size: 395.15277pt x 206.59048pt.
- [44 <./percentages_van_vrouwenS1S2.png>]
+ [43 <./percentages_van_vrouwenS1S2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
-(hoogste_allochtonen_voorkeurstemmen_tabel.tex) [45]
-<percentages_van_allochtonenS1S2.png, id=1012, 1011.78pt x 528.97626pt>
+(hoogste_allochtonen_voorkeurstemmen_tabel.tex) [44]
+<percentages_van_allochtonenS1S2.png, id=1016, 1011.78pt x 528.97626pt>
 File: percentages_van_allochtonenS1S2.png Graphic file (type png)
 
 <use percentages_van_allochtonenS1S2.png>
@@ -1745,22 +1766,22 @@ Package pdftex.def Info: percentages_van_allochtonenS1S2.png used on input line
 (pdftex.def)             Requested size: 395.15277pt x 206.59048pt.
 
 
-LaTeX Warning: Reference `sec:math' on page 46 undefined on input line 150.
+LaTeX Warning: Reference `sec:math' on page 45 undefined on input line 150.
 
-[46 <./percentages_van_allochtonenS1S2.png>]
+[45 <./percentages_van_allochtonenS1S2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-(hoogste_ouderen_voorkeurstemmen_tabel2.tex) [47]
-<percentages_van_ouderenS1S2.png, id=1041, 1011.78pt x 528.97626pt>
+(hoogste_ouderen_voorkeurstemmen_tabel2.tex) [46]
+<percentages_van_ouderenS1S2.png, id=1045, 1011.78pt x 528.97626pt>
 File: percentages_van_ouderenS1S2.png Graphic file (type png)
 
 <use percentages_van_ouderenS1S2.png>
 Package pdftex.def Info: percentages_van_ouderenS1S2.png used on input line 172
 .
 (pdftex.def)             Requested size: 395.15277pt x 206.59048pt.
- [48 <./percentages_van_ouderenS1S2.png>]
+ [47 <./percentages_van_ouderenS1S2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
@@ -1770,8 +1791,8 @@ Overfull \hbox (4.6397pt too wide) in paragraph at lines 1--205
  [][] 
  []
 
-[49]
-<percentages_van_provincialenS1S2S4.png, id=1071, 1571.8725pt x 809.0225pt>
+[48]
+<percentages_van_provincialenS1S2S4.png, id=1074, 1571.8725pt x 809.0225pt>
 File: percentages_van_provincialenS1S2S4.png Graphic file (type png)
 
 <use percentages_van_provincialenS1S2S4.png>
@@ -1779,35 +1800,32 @@ Package pdftex.def Info: percentages_van_provincialenS1S2S4.png used on input l
 ine 216.
 (pdftex.def)             Requested size: 395.15277pt x 203.3785pt.
 ) (uitvoerbaarheid_strategien.tex
-[50 <./percentages_van_provincialenS1S2S4.png>] [51]
-Underfull \hbox (badness 10000) in paragraph at lines 17--19
+[49 <./percentages_van_provincialenS1S2S4.png>] [50]
+<website_verkiezingen1.png, id=1100, 1381.16pt x 778.91pt>
+File: website_verkiezingen1.png Graphic file (type png)
 
- []
-
-<website_verkiezingen.png, id=1100, 1382.16376pt x 777.90625pt>
-File: website_verkiezingen.png Graphic file (type png)
-
-<use website_verkiezingen.png>
-Package pdftex.def Info: website_verkiezingen.png used on input line 24.
-(pdftex.def)             Requested size: 395.15277pt x 222.39403pt.
- [52]
-
-LaTeX Warning: Reference `fig:eva' on page 53 undefined on input line 32.
-
-<app_verkiezingen.png, id=1110, 1021.8175pt x 792.9625pt>
+<use website_verkiezingen1.png>
+Package pdftex.def Info: website_verkiezingen1.png used on input line 26.
+(pdftex.def)             Requested size: 395.15277pt x 222.8474pt.
+ [51 <./website_verkiezingen1.png>]
+<app_verkiezingen.png, id=1114, 1021.8175pt x 792.9625pt>
 File: app_verkiezingen.png Graphic file (type png)
 
 <use app_verkiezingen.png>
-Package pdftex.def Info: app_verkiezingen.png used on input line 39.
+Package pdftex.def Info: app_verkiezingen.png used on input line 44.
 (pdftex.def)             Requested size: 395.15277pt x 306.64061pt.
- [53 <./website_verkiezingen.png>] [54 <./app_verkiezingen.png>] [55] [56]) (te
-genbeweging_speltheorie.tex
-Overfull \hbox (11.03885pt too wide) in paragraph at lines 5--5
-\OT1/cmr/bx/n/12 zich com-mit-teert aan een stra-te-gie en een an-dere be-vol-k
-ings-groep(met
- []
+ [52 <./app_verkiezingen.png>]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 65.
+ [53] [54]
+<website_verkiezingen2.png, id=1189, 1381.16pt x 778.91pt>
+File: website_verkiezingen2.png Graphic file (type png)
 
-[57]
+<use website_verkiezingen2.png>
+Package pdftex.def Info: website_verkiezingen2.png used on input line 84.
+(pdftex.def)             Requested size: 395.15277pt x 222.8474pt.
+ [55 <./website_verkiezingen2.png>])
+(tegenbeweging_speltheorie.tex [56]
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
@@ -1815,112 +1833,101 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 (nashtabel1.tex
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-) [58] [59]
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
+) [57] [58]) (Voorkomen_uitbuiting.tex [59]
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-) (Voorkomen_uitbuiting.tex [60]
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-[61]) (conclusie.tex [62] [63] [64]) (main.bbl [65]
-Underfull \hbox (badness 1442) in paragraph at lines 683--697
+[60] [61]) (conclusie.tex [62] [63] [64]) (main.bbl [65]
+Underfull \hbox (badness 1442) in paragraph at lines 732--746
 []\OT1/cmr/m/n/10 EuropeCouncil.  (2012).  \OT1/cmr/m/it/10 Po-si-tive ac-tion 
 in the field of equa-lity bet-ween wo-men
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 683--697
+Underfull \hbox (badness 1590) in paragraph at lines 732--746
 \OT1/cmr/m/it/10 and men.  \OT1/cmr/m/n/10 Stras-bourg: Coun-cil of Eu-rope. Di
 s-ponvel em: http://www. coe.
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 916--929
+Underfull \hbox (badness 1248) in paragraph at lines 988--1001
 []\OT1/cmr/m/n/10 Kiesraad.  (2012a).  \OT1/cmr/m/it/10 Kies-raad da-ta-bank ve
 r-kie-zings-uit-sla-gen.  \OT1/cmr/m/n/10 Op 2016-03-18 ver-
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 916--929
+Underfull \hbox (badness 2012) in paragraph at lines 988--1001
 \OT1/cmr/m/n/10 kre-gen van [][]$\OT1/cmtt/m/n/10 http :// www [] .verkiezingsu
 itslagen [] .nl / Na1918 / Verkiezingsuitslagen []$
  []
 
-[66]
-Underfull \hbox (badness 4467) in paragraph at lines 1015--1024
-[]\OT1/cmr/m/it/10 Kiesstelsels - par-le-ment & po-li-tiek.  \OT1/cmr/m/n/10 (2
-012).  [][]$\OT1/cmtt/m/n/10 http :// www [] .parlement [] .com / id /$
- []
-
-[67]
-Underfull \hbox (badness 2310) in paragraph at lines 1478--1493
+[66] [67]
+Underfull \hbox (badness 2310) in paragraph at lines 1581--1596
 []\OT1/cmr/m/n/10 Opiniehuis.  (2012).  \OT1/cmr/m/it/10 Opi-nie-huis opi-nie-p
 ei-ling naar stem-ge-drag en stem-mo-tie-ven
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1505--1519
+Underfull \hbox (badness 10000) in paragraph at lines 1608--1622
 $\OT1/cmtt/m/n/10 .files [] .wordpress [] .com / 2011 / 09 / distributed [] -ap
 plication [] -architecture [] .pdf$[][]\OT1/cmr/m/n/10 .
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 1604--1612
-[]\OT1/cmr/m/it/10 Randstedeling - 2 de-fi-ni-ties - en-cy-clo.  \OT1/cmr/m/n/1
-0 (2012).  [][]$\OT1/cmtt/m/n/10 http :// www [] .encyclo [] .nl / begrip /$
- []
-
-
-Underfull \hbox (badness 1173) in paragraph at lines 1624--1638
+Underfull \hbox (badness 1173) in paragraph at lines 1735--1749
 []\OT1/cmr/m/n/10 Republiekallochtonie.nl.  (2012).  \OT1/cmr/m/it/10 re-pu-bli
 e-kal-loch-tonie.nlaantal al-loch-tone tweede ka-
  []
 
 
-Underfull \hbox (badness 4242) in paragraph at lines 1624--1638
+Underfull \hbox (badness 4242) in paragraph at lines 1735--1749
 \OT1/cmr/m/it/10 mer-le-den neemt waar-schijn-lijk met een derde af.  \OT1/cmr/
 m/n/10 Op 2016-04-22 ver-kre-gen
  []
 
 [68]
-Underfull \hbox (badness 5667) in paragraph at lines 1973--1987
+Underfull \hbox (badness 5667) in paragraph at lines 2084--2098
 \OT1/cmr/m/n/10 2016-05-16 ver-kre-gen van [][]$\OT1/cmtt/m/n/10 http :// www [
 ] .trouw [] .nl / tr / nl / 4504 / Economie / article /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1973--1987
+Underfull \hbox (badness 10000) in paragraph at lines 2084--2098
 $\OT1/cmtt/m/n/10 detail / 3666338 / 2014 / 06 / 04 / Participatiewet [] -vergr
 oot [] -kloof [] -tussen [] -Randstad []$
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2274--2288
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 2361--2375
 $\OT1/cmtt/m/n/10 Besluitenlijsten / 2014 / 4 [] .8 % 20 % 20bestuursconvenant 
 % 20samenwerking % 20alphen []$
  []
 
-) (bijlage1.tex [69] (tabel1_allochtonen.tex) [70] (tabel2_allochtonen.tex)
-[71] <Aantal_allochtonen_aantal_zetels.png, id=1340, 986.68625pt x 596.2275pt>
-File: Aantal_allochtonen_aantal_zetels.png Graphic file (type png)
+) (bijlage1.tex [70] (tabel1_allochtonen.tex) [71] (tabel2_allochtonen.tex)
+[72]
+<Aantal_allochtonen_aantal_zetels1.png, id=1383, 1004.75375pt x 596.2275pt>
+File: Aantal_allochtonen_aantal_zetels1.png Graphic file (type png)
 
-<use Aantal_allochtonen_aantal_zetels.png>
-Package pdftex.def Info: Aantal_allochtonen_aantal_zetels.png used on input lin
-e 58.
-(pdftex.def)             Requested size: 395.15277pt x 238.7779pt.
- (tabel3_allochtonen.tex) [72 <./Aantal_allochtonen_aantal_zetels.png>]
-<stemmen_op_allochtonen_topN_samen2.png, id=1353, 1038.88126pt x 479.7925pt>
+<use Aantal_allochtonen_aantal_zetels1.png>
+Package pdftex.def Info: Aantal_allochtonen_aantal_zetels1.png used on input li
+ne 58.
+(pdftex.def)             Requested size: 395.15277pt x 234.4838pt.
+ (tabel3_allochtonen.tex) [73 <./Aantal_allochtonen_aantal_zetels1.png>]
+<stemmen_op_allochtonen_topN_samen2.png, id=1397, 1038.88126pt x 479.7925pt>
 File: stemmen_op_allochtonen_topN_samen2.png Graphic file (type png)
 
 <use stemmen_op_allochtonen_topN_samen2.png>
 Package pdftex.def Info: stemmen_op_allochtonen_topN_samen2.png used on input l
 ine 95.
 (pdftex.def)             Requested size: 395.15277pt x 182.49141pt.
- [73 <./stemmen_op_allochtonen_topN_samen2.png>]
-<pie_chart_topN_allochtonen.png, id=1363, 736.7525pt x 685.56125pt>
+ [74 <./stemmen_op_allochtonen_topN_samen2.png>]
+<pie_chart_topN_allochtonen.png, id=1406, 736.7525pt x 685.56125pt>
 File: pie_chart_topN_allochtonen.png Graphic file (type png)
 
 <use pie_chart_topN_allochtonen.png>
@@ -1928,69 +1935,69 @@ Package pdftex.def Info: pie_chart_topN_allochtonen.png used on input line 110.
 
 (pdftex.def)             Requested size: 138.30588pt x 128.68886pt.
 
-<stemmen_op_allochtonen_willekeurig_samen2.png, id=1367, 1038.88126pt x 479.792
+<stemmen_op_allochtonen_willekeurig_samen2.png, id=1410, 1038.88126pt x 479.792
 5pt>
 File: stemmen_op_allochtonen_willekeurig_samen2.png Graphic file (type png)
  <use stemmen_op_allochtonen_willekeurig_samen2.png>
 Package pdftex.def Info: stemmen_op_allochtonen_willekeurig_samen2.png used on 
 input line 135.
 (pdftex.def)             Requested size: 395.15277pt x 182.49141pt.
- [74 <./pie_chart_topN_allochtonen.png>]
+ [75 <./pie_chart_topN_allochtonen.png>]
 File: pie_chart_topN_allochtonen.png Graphic file (type png)
  <use pie_chart_topN_allochtonen.png>
 Package pdftex.def Info: pie_chart_topN_allochtonen.png used on input line 150.
 
 (pdftex.def)             Requested size: 138.30588pt x 128.68886pt.
- [75 <./stemmen_op_allochtonen_willekeurig_samen2.png>] (tabel1_ouderen.tex) [7
-6] (tabel2_ouderen.tex)
-<Aantal_ouderen_aantal_zetels.png, id=1401, 986.68625pt x 596.2275pt>
-File: Aantal_ouderen_aantal_zetels.png Graphic file (type png)
+ [76 <./stemmen_op_allochtonen_willekeurig_samen2.png>] (tabel1_ouderen.tex) [7
+7] (tabel2_ouderen.tex)
+<Aantal_ouderen_aantal_zetels1.png, id=1444, 1004.75375pt x 596.2275pt>
+File: Aantal_ouderen_aantal_zetels1.png Graphic file (type png)
 
-<use Aantal_ouderen_aantal_zetels.png>
-Package pdftex.def Info: Aantal_ouderen_aantal_zetels.png used on input line 21
-6.
-(pdftex.def)             Requested size: 387.24802pt x 234.00162pt.
- [77 <./Aantal_ouderen_aantal_zetels.png>] (tabel3_ouderen.tex)
-<stemmen_op_ouderen_topN_peiling.png, id=1412, 1078.0275pt x 435.6275pt>
+<use Aantal_ouderen_aantal_zetels1.png>
+Package pdftex.def Info: Aantal_ouderen_aantal_zetels1.png used on input line 2
+16.
+(pdftex.def)             Requested size: 387.24802pt x 229.78938pt.
+ [78 <./Aantal_ouderen_aantal_zetels1.png>] (tabel3_ouderen.tex)
+<stemmen_op_ouderen_topN_peiling.png, id=1455, 1078.0275pt x 435.6275pt>
 File: stemmen_op_ouderen_topN_peiling.png Graphic file (type png)
 
 <use stemmen_op_ouderen_topN_peiling.png>
 Package pdftex.def Info: stemmen_op_ouderen_topN_peiling.png used on input line
  248.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
- [78 <./stemmen_op_ouderen_topN_peiling.png>]
+ [79 <./stemmen_op_ouderen_topN_peiling.png>]
 
 Package caption Warning: \label without proper reference on input line 267.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:pcS1O' on page 79 undefined on input line 259.
+LaTeX Warning: Reference `fig:pcS1O' on page 80 undefined on input line 259.
 
-<pie_chart_topN_ouderen.png, id=1422, 855.195pt x 685.56125pt>
+<pie_chart_topN_ouderen.png, id=1466, 855.195pt x 685.56125pt>
 File: pie_chart_topN_ouderen.png Graphic file (type png)
 
 <use pie_chart_topN_ouderen.png>
 Package pdftex.def Info: pie_chart_topN_ouderen.png used on input line 263.
 (pdftex.def)             Requested size: 165.96344pt x 133.04056pt.
 
-<stemmen_op_ouderen_willekeurig_samen.png, id=1426, 1078.0275pt x 435.6275pt>
+<stemmen_op_ouderen_willekeurig_samen.png, id=1470, 1078.0275pt x 435.6275pt>
 File: stemmen_op_ouderen_willekeurig_samen.png Graphic file (type png)
 
 <use stemmen_op_ouderen_willekeurig_samen.png>
 Package pdftex.def Info: stemmen_op_ouderen_willekeurig_samen.png used on input
  line 288.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
- [79 <./pie_chart_topN_ouderen.png>] <pie_chart_willekeurig_ouderen.png, id=143
-7, 801.99625pt x 685.56125pt>
+ [80 <./pie_chart_topN_ouderen.png>] <pie_chart_willekeurig_ouderen.png, id=148
+0, 801.99625pt x 685.56125pt>
 File: pie_chart_willekeurig_ouderen.png Graphic file (type png)
 
 <use pie_chart_willekeurig_ouderen.png>
 Package pdftex.def Info: pie_chart_willekeurig_ouderen.png used on input line 3
 03.
 (pdftex.def)             Requested size: 165.96344pt x 141.86948pt.
- [80 <./stemmen_op_ouderen_willekeurig_samen.png> <./pie_chart_willekeurig_oude
+ [81 <./stemmen_op_ouderen_willekeurig_samen.png> <./pie_chart_willekeurig_oude
 ren.png>]
-<top15_of_topN_kandidaten_ouderen.png, id=1446, 986.68625pt x 573.14125pt>
+<top15_of_topN_kandidaten_ouderen.png, id=1489, 986.68625pt x 573.14125pt>
 File: top15_of_topN_kandidaten_ouderen.png Graphic file (type png)
 
 <use top15_of_topN_kandidaten_ouderen.png>
@@ -1998,30 +2005,30 @@ Package pdftex.def Info: top15_of_topN_kandidaten_ouderen.png used on input lin
 e 331.
 (pdftex.def)             Requested size: 395.15277pt x 229.53229pt.
 
-<stemmen_op_ouderen_top15_of_topN_samen.png, id=1450, 1078.0275pt x 479.7925pt>
+<stemmen_op_ouderen_top15_of_topN_samen.png, id=1493, 1078.0275pt x 479.7925pt>
 File: stemmen_op_ouderen_top15_of_topN_samen.png Graphic file (type png)
 <use stemmen_op_ouderen_top15_of_topN_samen.png>
 Package pdftex.def Info: stemmen_op_ouderen_top15_of_topN_samen.png used on inp
 ut line 346.
 (pdftex.def)             Requested size: 395.15277pt x 175.86588pt.
- [81 <./top15_of_topN_kandidaten_ouderen.png>]
-<pie_chart_top15_of_topN_ouderen.png, id=1460, 843.15pt x 685.56125pt>
+ [82 <./top15_of_topN_kandidaten_ouderen.png>]
+<pie_chart_top15_of_topN_ouderen.png, id=1503, 843.15pt x 685.56125pt>
 File: pie_chart_top15_of_topN_ouderen.png Graphic file (type png)
 
 <use pie_chart_top15_of_topN_ouderen.png>
 Package pdftex.def Info: pie_chart_top15_of_topN_ouderen.png used on input line
  360.
 (pdftex.def)             Requested size: 165.96344pt x 134.94443pt.
- [82 <./stemmen_op_ouderen_top15_of_topN_samen.png> <./pie_chart_top15_of_topN_
+ [83 <./stemmen_op_ouderen_top15_of_topN_samen.png> <./pie_chart_top15_of_topN_
 ouderen.png>]
-<eigenX_partijen_ouderen.png, id=1469, 986.68625pt x 578.16pt>
+<eigenX_partijen_ouderen.png, id=1512, 986.68625pt x 578.16pt>
 File: eigenX_partijen_ouderen.png Graphic file (type png)
 
 <use eigenX_partijen_ouderen.png>
 Package pdftex.def Info: eigenX_partijen_ouderen.png used on input line 383.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
- [83 <./eigenX_partijen_ouderen.png>]
-<stemmen_op_ouderen_eigenX_samen.png, id=1479, 1078.0275pt x 435.6275pt>
+ [84 <./eigenX_partijen_ouderen.png>]
+<stemmen_op_ouderen_eigenX_samen.png, id=1522, 1078.0275pt x 435.6275pt>
 File: stemmen_op_ouderen_eigenX_samen.png Graphic file (type png)
 
 <use stemmen_op_ouderen_eigenX_samen.png>
@@ -2029,55 +2036,55 @@ Package pdftex.def Info: stemmen_op_ouderen_eigenX_samen.png used on input line
  399.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
 
-<pie_chart_eigenX_ouderen.png, id=1482, 721.69624pt x 685.56125pt>
+<pie_chart_eigenX_ouderen.png, id=1525, 721.69624pt x 685.56125pt>
 File: pie_chart_eigenX_ouderen.png Graphic file (type png)
 
 <use pie_chart_eigenX_ouderen.png>
 Package pdftex.def Info: pie_chart_eigenX_ouderen.png used on input line 414.
 (pdftex.def)             Requested size: 158.05869pt x 150.14398pt.
- [84 <./stemmen_op_ouderen_eigenX_samen.png>] <topN_vermenigvuldiging_ouderen.p
-ng, id=1492, 1190.4475pt x 730.73pt>
+ [85 <./stemmen_op_ouderen_eigenX_samen.png>] <topN_vermenigvuldiging_ouderen.p
+ng, id=1536, 1190.4475pt x 730.73pt>
 File: topN_vermenigvuldiging_ouderen.png Graphic file (type png)
 
 <use topN_vermenigvuldiging_ouderen.png>
 Package pdftex.def Info: topN_vermenigvuldiging_ouderen.png used on input line 
 444.
 (pdftex.def)             Requested size: 395.15277pt x 242.54654pt.
- [85 <./pie_chart_eigenX_ouderen.png>]
-<stemmen_op_ouderen_topNextrapercentage_samen.png, id=1503, 1409.265pt x 879.28
+ [86 <./pie_chart_eigenX_ouderen.png>]
+<stemmen_op_ouderen_topNextrapercentage_samen.png, id=1546, 1409.265pt x 879.28
 5pt>
 File: stemmen_op_ouderen_topNextrapercentage_samen.png Graphic file (type png)
  <use stemmen_op_ouderen_topNextrapercentage_samen.png>
 Package pdftex.def Info: stemmen_op_ouderen_topNextrapercentage_samen.png used 
 on input line 459.
 (pdftex.def)             Requested size: 395.15277pt x 246.54695pt.
- [86 <./topN_vermenigvuldiging_ouderen.png>]
-<topNextrapercentage_aantal_ouderen_overzicht.png, id=1512, 993.7125pt x 498.86
+ [87 <./topN_vermenigvuldiging_ouderen.png>]
+<topNextrapercentage_aantal_ouderen_overzicht.png, id=1555, 993.7125pt x 498.86
 375pt>
 File: topNextrapercentage_aantal_ouderen_overzicht.png Graphic file (type png)
  <use topNextrapercentage_aantal_ouderen_overzicht.png>
 Package pdftex.def Info: topNextrapercentage_aantal_ouderen_overzicht.png used 
 on input line 477.
 (pdftex.def)             Requested size: 395.15277pt x 198.37732pt.
- [87 <./stemmen_op_ouderen_topNextrapercentage_samen.png>] [88 <./topNextraperc
+ [88 <./stemmen_op_ouderen_topNextrapercentage_samen.png>] [89 <./topNextraperc
 entage_aantal_ouderen_overzicht.png>] (tabel1_provincialen.tex) (tabel2_provinc
 ialen.tex)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Aantal_provincialen_aantal_zetels.png, id=1538, 986.68625pt x 596.2275pt>
-File: Aantal_provincialen_aantal_zetels.png Graphic file (type png)
+<Aantal_provincialen_aantal_zetels1.png, id=1581, 1004.75375pt x 596.2275pt>
+File: Aantal_provincialen_aantal_zetels1.png Graphic file (type png)
 
-<use Aantal_provincialen_aantal_zetels.png>
-Package pdftex.def Info: Aantal_provincialen_aantal_zetels.png used on input li
-ne 544.
-(pdftex.def)             Requested size: 395.15277pt x 238.7779pt.
- [89] (tabel3_provincialen.tex)
+<use Aantal_provincialen_aantal_zetels1.png>
+Package pdftex.def Info: Aantal_provincialen_aantal_zetels1.png used on input l
+ine 544.
+(pdftex.def)             Requested size: 395.15277pt x 234.4838pt.
+ [90] (tabel3_provincialen.tex)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[90 <./Aantal_provincialen_aantal_zetels.png>]
-<stemmen_op_provincialen_topN_samen.png, id=1557, 1078.0275pt x 435.6275pt>
+[91 <./Aantal_provincialen_aantal_zetels1.png>]
+<stemmen_op_provincialen_topN_samen.png, id=1601, 1078.0275pt x 435.6275pt>
 File: stemmen_op_provincialen_topN_samen.png Graphic file (type png)
 
 <use stemmen_op_provincialen_topN_samen.png>
@@ -2085,32 +2092,32 @@ Package pdftex.def Info: stemmen_op_provincialen_topN_samen.png used on input l
 ine 577.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
 
-<pie_chart_topN_provincialen.png, id=1560, 1025.8325pt x 685.56125pt>
+<pie_chart_topN_provincialen.png, id=1604, 1025.8325pt x 685.56125pt>
 File: pie_chart_topN_provincialen.png Graphic file (type png)
 
 <use pie_chart_topN_provincialen.png>
 Package pdftex.def Info: pie_chart_topN_provincialen.png used on input line 592
 .
 (pdftex.def)             Requested size: 177.81754pt x 118.83478pt.
- [91 <./stemmen_op_provincialen_topN_samen.png>]
-<stemmen_op_provincialen_willekeurig_samen.png, id=1572, 1078.0275pt x 435.6275
+ [92 <./stemmen_op_provincialen_topN_samen.png>]
+<stemmen_op_provincialen_willekeurig_samen.png, id=1615, 1078.0275pt x 435.6275
 pt>
 File: stemmen_op_provincialen_willekeurig_samen.png Graphic file (type png)
  <use stemmen_op_provincialen_willekeurig_samen.png>
 Package pdftex.def Info: stemmen_op_provincialen_willekeurig_samen.png used on 
 input line 617.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
- [92 <./pie_chart_topN_provincialen.png>]
-<pie_chart_willekeurig_provincialen1.png, id=1581, 997.7275pt x 685.56125pt>
+ [93 <./pie_chart_topN_provincialen.png>]
+<pie_chart_willekeurig_provincialen1.png, id=1624, 997.7275pt x 685.56125pt>
 File: pie_chart_willekeurig_provincialen1.png Graphic file (type png)
 
 <use pie_chart_willekeurig_provincialen1.png>
 Package pdftex.def Info: pie_chart_willekeurig_provincialen1.png used on input 
 line 632.
 (pdftex.def)             Requested size: 177.81754pt x 122.18224pt.
- [93 <./stemmen_op_provincialen_willekeurig_samen.png> <./pie_chart_willekeurig
+ [94 <./stemmen_op_provincialen_willekeurig_samen.png> <./pie_chart_willekeurig
 _provincialen1.png>]
-<top15_of_topN_kandidaten_provincialen.png, id=1590, 986.68625pt x 578.16pt>
+<top15_of_topN_kandidaten_provincialen.png, id=1633, 986.68625pt x 578.16pt>
 File: top15_of_topN_kandidaten_provincialen.png Graphic file (type png)
 
 <use top15_of_topN_kandidaten_provincialen.png>
@@ -2118,24 +2125,24 @@ Package pdftex.def Info: top15_of_topN_kandidaten_provincialen.png used on inpu
 t line 655.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
 
-<stemmen_op_provincialen_top15_of_topN_samen.png, id=1594, 1078.0275pt x 435.62
+<stemmen_op_provincialen_top15_of_topN_samen.png, id=1637, 1078.0275pt x 435.62
 75pt>
 File: stemmen_op_provincialen_top15_of_topN_samen.png Graphic file (type png)
  <use stemmen_op_provincialen_top15_of_topN_samen.png>
 Package pdftex.def Info: stemmen_op_provincialen_top15_of_topN_samen.png used o
 n input line 668.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
- [94 <./top15_of_topN_kandidaten_provincialen.png>]
-<pie_chart_top15_of_topN_provincialen.png, id=1604, 785.93625pt x 685.56125pt>
+ [95 <./top15_of_topN_kandidaten_provincialen.png>]
+<pie_chart_top15_of_topN_provincialen.png, id=1647, 785.93625pt x 685.56125pt>
 File: pie_chart_top15_of_topN_provincialen.png Graphic file (type png)
 
 <use pie_chart_top15_of_topN_provincialen.png>
 Package pdftex.def Info: pie_chart_top15_of_topN_provincialen.png used on input
  line 682.
 (pdftex.def)             Requested size: 158.05869pt x 137.87346pt.
- [95 <./stemmen_op_provincialen_top15_of_topN_samen.png> <./pie_chart_top15_of_
+ [96 <./stemmen_op_provincialen_top15_of_topN_samen.png> <./pie_chart_top15_of_
 topN_provincialen.png>]
-<eigenX_partijen_provincialen.png, id=1613, 986.68625pt x 578.16pt>
+<eigenX_partijen_provincialen.png, id=1656, 986.68625pt x 578.16pt>
 File: eigenX_partijen_provincialen.png Graphic file (type png)
 
 <use eigenX_partijen_provincialen.png>
@@ -2143,37 +2150,37 @@ Package pdftex.def Info: eigenX_partijen_provincialen.png used on input line 70
 2.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
 
-<stemmen_op_provincialen_eigenX_samen.png, id=1617, 1078.0275pt x 479.7925pt>
+<stemmen_op_provincialen_eigenX_samen.png, id=1660, 1078.0275pt x 479.7925pt>
 File: stemmen_op_provincialen_eigenX_samen.png Graphic file (type png)
 
 <use stemmen_op_provincialen_eigenX_samen.png>
 Package pdftex.def Info: stemmen_op_provincialen_eigenX_samen.png used on input
  line 716.
 (pdftex.def)             Requested size: 395.15277pt x 175.86588pt.
- [96 <./eigenX_partijen_provincialen.png>] <pie_chart_eigenX_provincialen.png, 
-id=1627, 931.48pt x 685.56125pt>
+ [97 <./eigenX_partijen_provincialen.png>] <pie_chart_eigenX_provincialen.png, 
+id=1671, 931.48pt x 685.56125pt>
 File: pie_chart_eigenX_provincialen.png Graphic file (type png)
 
 <use pie_chart_eigenX_provincialen.png>
 Package pdftex.def Info: pie_chart_eigenX_provincialen.png used on input line 7
 31.
 (pdftex.def)             Requested size: 177.81754pt x 130.86472pt.
- [97 <./stemmen_op_provincialen_eigenX_samen.png> <./pie_chart_eigenX_provincia
+ [98 <./stemmen_op_provincialen_eigenX_samen.png> <./pie_chart_eigenX_provincia
 len.png>]
 Overfull \hbox (7.48195pt too wide) in paragraph at lines 750--751
 [] []\OT1/cmr/bx/n/10 Maxi-maal aan-tal pro-vin-ci-ale per par-tij(top \OT1/cmr
 /bx/it/10 N+extra per-cen-tage\OT1/cmr/bx/n/10 ) dat in de Tweede
  []
 
-<topN_vermenigvuldiging_provincialen.png, id=1638, 1190.4475pt x 730.73pt>
+<topN_vermenigvuldiging_provincialen.png, id=1681, 1190.4475pt x 730.73pt>
 File: topN_vermenigvuldiging_provincialen.png Graphic file (type png)
 
 <use topN_vermenigvuldiging_provincialen.png>
 Package pdftex.def Info: topN_vermenigvuldiging_provincialen.png used on input 
 line 755.
 (pdftex.def)             Requested size: 395.15277pt x 242.54654pt.
- [98 <./topN_vermenigvuldiging_provincialen.png>]
-<stemmen_op_provincialen_topNextrapercentage_uitslag.png, id=1648, 1371.1225pt 
+ [99 <./topN_vermenigvuldiging_provincialen.png>]
+<stemmen_op_provincialen_topNextrapercentage_uitslag.png, id=1691, 1371.1225pt 
 x 879.285pt>
 File: stemmen_op_provincialen_topNextrapercentage_uitslag.png Graphic file (typ
 e png)
@@ -2182,7 +2189,7 @@ Package pdftex.def Info: stemmen_op_provincialen_topNextrapercentage_uitslag.pn
 g used on input line 771.
 (pdftex.def)             Requested size: 395.15277pt x 253.40294pt.
 
-<topNextrapercentage_aantal_provincialen_overzicht.png, id=1651, 993.7125pt x 4
+<topNextrapercentage_aantal_provincialen_overzicht.png, id=1694, 993.7125pt x 4
 98.86375pt>
 File: topNextrapercentage_aantal_provincialen_overzicht.png Graphic file (type 
 png)
@@ -2191,51 +2198,54 @@ Package pdftex.def Info: topNextrapercentage_aantal_provincialen_overzicht.png
 used on input line 787.
 (pdftex.def)             Requested size: 395.15277pt x 198.37732pt.
 
-[99 <./stemmen_op_provincialen_topNextrapercentage_uitslag.png>]) (bijlage2.tex
-[100 <./topNextrapercentage_aantal_provincialen_overzicht.png>] [101])
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
-(main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
+[100 <./stemmen_op_provincialen_topNextrapercentage_uitslag.png>])
+(bijlage2.tex [101 <./topNextrapercentage_aantal_provincialen_overzicht.png>]
+[102])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DE2F9B6C83B931815CBA770AD30C4069;4858.
+(rerunfilecheck)             Checksum: 0CFFB808E6E998CBAC61A334656CBDA9;4864.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
- 25276 strings out of 493634
- 473249 string characters out of 3134423
- 664165 words of memory out of 3000000
- 27771 multiletter control sequences out of 15000+200000
- 11020 words of font info for 40 fonts, out of 3000000 for 9000
+ 25831 strings out of 493634
+ 483570 string characters out of 3134423
+ 678694 words of memory out of 3000000
+ 28308 multiletter control sequences out of 15000+200000
+ 11403 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 62i,11n,77p,2913b,696s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,77p,2909b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Michael/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Michael/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C
-:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Michael/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Michael/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/
-Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10
-.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmti8.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (101 pages, 2533796 bytes).
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Michael/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Michae
+l/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Michael/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Michael/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/
+Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.p
+fb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Michael/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Michael
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:
+/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmtt10.pfb>
+Output written on main.pdf (102 pages, 2715004 bytes).
 PDF statistics:
- 1782 PDF objects out of 2073 (max. 8388607)
- 324 named destinations out of 1000 (max. 500000)
- 686 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1840 PDF objects out of 2073 (max. 8388607)
+ 333 named destinations out of 1000 (max. 500000)
+ 691 words of extra memory for PDF output out of 10000 (max. 10000000)
 
