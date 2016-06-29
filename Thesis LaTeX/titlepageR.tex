@@ -1,0 +1,92 @@
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage[some]{background}
+\definecolor{titlepagecolor}{cmyk}{0.8252, 0.8155, 0, 0.5961}
+\definecolor{namecolor}{cmyk}{1,.50,0,.10} 
+\definecolor{text}{cmyk}{0,0,0,0} 
+%-----------------------------------------------------------------
+\begin{document}
+% ----------------------------------------------------------------
+\begin{titlepage}
+\newgeometry{left=7.5cm} %defines the geometry for the titlepage
+\pagecolor{titlepagecolor}
+\noindent
+\color{black}
+\makebox[0pt][l]{\rule{1.3\textwidth}{1pt}}
+\par
+\noindent
+\large{\textsf{Bachelor Thesis}} \textcolor{namecolor}{\textsf{Rosa Hudepohl}}
+\vfill
+\noindent
+{\Huge \textcolor{text}{Het Manipuleren van de Tweede Kamerverkiezingen door Uitbuiting van de Voorkeursdrempel}}
+\vskip\baselineskip
+\noindent
+\noindent
+{\Large \textsf{Should hotels start using mobile apps to sell their products and services?}}
+\vskip\baselineskip
+\noindent
+\textsf{June 2016}
+\end{titlepage}
+\restoregeometry % restores the geometry
+\nopagecolor% Use this to restore the color pages to white
+
+
+\backgroundsetup{
+scale=1,
+angle=0,
+opacity=1,
+contents={\begin{tikzpicture}[remember picture,overlay]
+ \path [fill=titlepagecolor] (current page.west)rectangle (current page.north east); 
+ \draw [color=white, very thick] (5,0)--(5,0.5\paperheight);
+\end{tikzpicture}}
+}
+
+\makeatletter                   
+\def\printauthor{%                  
+    {\large \@author}}          
+\makeatother
+
+\author{%
+    Rosa Hudepohl \\
+    Information Science \\
+    University of Amsterdam \\
+    June 2016 \vspace{40pt} \\
+    \textit{Supervisor:} \\
+    Dick Heinhuis \\
+    \textit{Second Supervisor:} \\
+    Loek Stolwijk
+    }
+
+
+\begin{titlepage}
+\BgThispage
+\newgeometry{left=1.5cm,right=6cm,bottom=2cm}
+\vspace*{0.35\textheight}
+\noindent
+\textcolor{black}{\LARGE\textbf{\textsf{Mobile Commerce in the Tourism Industry\\}}\Large\textsf{Should hotels start using mobile apps to sell their \\ products and services?}}
+\vspace*{2cm}\par
+\noindent
+\begin{minipage}{0.35\linewidth}
+    \begin{flushright}
+        \printauthor
+    \end{flushright}
+\end{minipage} \hspace{15pt}
+%
+\begin{minipage}{0.02\linewidth}
+    \rule{1pt}{275pt}
+\end{minipage} \hspace{-10pt}
+%
+\begin{minipage}{0.9\linewidth}
+\vspace{5pt}
+    \begin{abstract} 
+With the increasing maturity of mobile communication technology, mobile commerce (m-commerce) is booming worldwide. With the rise of m-commerce there also emerges a new business model for tourism related organizations and an opportunity to employ mobile tourism (m-tourism) services. Internet has a great impact on the tourism industry as more and more travelers book their hotel stay online. However, the idea of using mobile devices as an information, interaction and purchase channel for hotel’s additional products and services is not widespread in the tourism industry. If we look at the stay itself, hotels and other holiday accommodation providers still tend to use traditional methods like providing information folders to inform guests about their products and services. Hotels might however consider adopting m-commerce since research suggests that using mobile as a communication channel can in many ways be very effective. However, no research can be found about the actual practice of using mobile channels for hotels. Since hotels adopting m-commerce could be the next big step in the tourism industry, the purpose of this study is to examine whether for hotels using mobile as a communication channel is more effective than using an information folder for providing information about their products and services during their guests’ stay. Based on the principles of Media Richness Theory (MRT) a mobile hotel app was developed and tested in a case study in a hotel in Bali, where the purchase behavior of guests that used the hotel app was compared to the behavior of guests that used the traditional information folder. The results revealed that for hotels using a mobile app has a positive effect on the total sales rate, specifically on the sales rate for lunch, dinner, activities and daytrips and laundry service. 
+
+    \end{abstract}
+\end{minipage}
+\end{titlepage}
+\restoregeometry
+\end{document}

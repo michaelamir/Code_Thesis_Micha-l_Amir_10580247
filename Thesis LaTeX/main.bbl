@@ -101,9 +101,9 @@ Ajzen, I.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-AlleKandidaten.nl%
+Allekandidaten.nl%
 }{%
-AlleKandidaten.nl%
+Allekandidaten.nl%
 }{%
 {\protect \APACyear {2012}}%
 }]{%
@@ -111,7 +111,7 @@ allekandidaten}
 \APACinsertmetastar {%
 allekandidaten}%
 \begin{APACrefauthors}%
-AlleKandidaten.nl.%
+Allekandidaten.nl.%
 \end{APACrefauthors}%
 \unskip\
 \newblock

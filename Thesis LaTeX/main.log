@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.20)  19 JUN 2016 18:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.20)  28 JUN 2016 20:11
 entering extended mode
 **./main.tex
 (main.tex
@@ -1045,6 +1045,13 @@ Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \tcb@out=\write4
 \tcb@record@out=\write5
 )
+("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wasysym\wasysym.
+sty"
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcapti
 on.sty"
 Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
@@ -1172,7 +1179,7 @@ rarytikzmark.code.tex")
 \c@theorem=\count170
 \c@DV=\count171
 \c@SDV=\count172
-Package hyperref Info: Option `colorlinks' set `true' on input line 64.
+Package hyperref Info: Option `colorlinks' set `true' on input line 67.
 
 
 LaTeX Warning: Unused global option(s):
@@ -1181,22 +1188,22 @@ LaTeX Warning: Unused global option(s):
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring ON on input line 68.
+Package hyperref Info: Link coloring ON on input line 71.
 
 ("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
 .sty"
@@ -1208,9 +1215,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count173
 )
-LaTeX Info: Redefining \ref on input line 68.
-LaTeX Info: Redefining \pageref on input line 68.
-LaTeX Info: Redefining \nameref on input line 68.
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
  (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -1293,20 +1300,32 @@ c"
 File: dutch.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 141.
 LaTeX Info: Redefining \BHBI on input line 142.
-) (titlepage.tex) [1
+) (titlepage.tex <UVA.png, id=193, 756.8275pt x 756.8275pt>
+File: UVA.png Graphic file (type png)
+ <use UVA.png>
+Package pdftex.def Info: UVA.png used on input line 51.
+(pdftex.def)             Requested size: 39.51768pt x 39.50653pt.
+)
+[1
 
-{C:/Users/Michael/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (main.toc
- [2])
+{C:/Users/Michael/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./UVA.png
+>] (main.toc
+LaTeX Font Info:    Try loading font information for U+wasy on input line 5.
+
+("C:\Users\Michael\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wasysym\uwasy.fd
+"
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+) [2])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
  [3] [4]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 108.
+(hyperref)                setting the option has no effect on input line 111.
 
 (introductie.tex
-<verdeling_stemmen_2012.png, id=282, 1167.36125pt x 485.815pt>
+<verdeling_stemmen_2012.png, id=291, 1167.36125pt x 485.815pt>
 File: verdeling_stemmen_2012.png Graphic file (type png)
 
 <use verdeling_stemmen_2012.png>
@@ -1324,7 +1343,7 @@ Package array Warning: Column L is already defined on input line 29.
 Package array Warning: Column I is already defined on input line 30.
 
 [5 <./verdeling_stemmen_2012.png>]
-<aantal_zetels_bevolkingsgroepen.png, id=307, 557.08125pt x 371.3875pt>
+<aantal_zetels_bevolkingsgroepen.png, id=321, 557.08125pt x 371.3875pt>
 File: aantal_zetels_bevolkingsgroepen.png Graphic file (type png)
 
 <use aantal_zetels_bevolkingsgroepen.png>
@@ -1433,7 +1452,7 @@ Package array Warning: Column L is already defined on input line 23.
 
 Package array Warning: Column I is already defined on input line 24.
 
-<peiling_zetels_landelijk.png, id=487, 936.49875pt x 578.16pt>
+<peiling_zetels_landelijk.png, id=504, 936.49875pt x 578.16pt>
 File: peiling_zetels_landelijk.png Graphic file (type png)
 
 <use peiling_zetels_landelijk.png>
@@ -1451,16 +1470,12 @@ Package array Warning: Column L is already defined on input line 55.
 Package array Warning: Column I is already defined on input line 56.
 
 
-LaTeX Warning: Reference `sssec:vrouwen' on page 13 undefined on input line 62.
-
-
-
 Package array Warning: Column L is already defined on input line 64.
 
 
 Package array Warning: Column I is already defined on input line 65.
 
-<mv_kandidaten.png, id=521, 451.6875pt x 376.40625pt>
+<mv_kandidaten.png, id=540, 451.6875pt x 376.40625pt>
 File: mv_kandidaten.png Graphic file (type png)
  <use mv_kandidaten.png>
 Package pdftex.def Info: mv_kandidaten.png used on input line 72.
@@ -1478,14 +1493,6 @@ Package array Warning: Column L is already defined on input line 86.
 Package array Warning: Column I is already defined on input line 87.
 
 
-LaTeX Warning: Reference `sssec:allochtonen' on page 14 undefined on input line
- 95.
-
-
-LaTeX Warning: Reference `sssec:allochtonen' on page 14 undefined on input line
- 95.
-
-
 Underfull \hbox (badness 1072) in paragraph at lines 95--95
 []|\OT1/cmr/m/n/10 Stemgedrag van wes-terse en niet-westerse al-loch-to-nen
  []
@@ -1496,61 +1503,61 @@ Package array Warning: Column L is already defined on input line 97.
 
 Package array Warning: Column I is already defined on input line 98.
 
-<aa_kandidaten.png, id=587, 451.6875pt x 426.59375pt>
+<aa_kandidaten.png, id=623, 451.6875pt x 426.59375pt>
 File: aa_kandidaten.png Graphic file (type png)
  <use aa_kandidaten.png>
-Package pdftex.def Info: aa_kandidaten.png used on input line 126.
+Package pdftex.def Info: aa_kandidaten.png used on input line 116.
 (pdftex.def)             Requested size: 165.96344pt x 156.74365pt.
 
 [14 <./mv_kandidaten.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 
-Package array Warning: Column L is already defined on input line 137.
+Package array Warning: Column L is already defined on input line 127.
 
 
-Package array Warning: Column I is already defined on input line 138.
+Package array Warning: Column I is already defined on input line 128.
 
 [15 <./aa_kandidaten.png>]
-<ja_kandidaten.png, id=633, 451.6875pt x 426.59375pt>
+<ja_kandidaten.png, id=678, 451.6875pt x 426.59375pt>
 File: ja_kandidaten.png Graphic file (type png)
  <use ja_kandidaten.png>
-Package pdftex.def Info: ja_kandidaten.png used on input line 153.
+Package pdftex.def Info: ja_kandidaten.png used on input line 143.
 (pdftex.def)             Requested size: 165.96344pt x 156.74365pt.
 
 [16 <./ja_kandidaten.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
 
-Package array Warning: Column L is already defined on input line 165.
+Package array Warning: Column L is already defined on input line 155.
 
 
-Package array Warning: Column I is already defined on input line 166.
+Package array Warning: Column I is already defined on input line 156.
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 176--176
+Underfull \hbox (badness 1484) in paragraph at lines 166--166
 []|\OT1/cmr/m/n/10 Het aan-tal stem-ge-rech-tigde pro-vin-ci-a-len is tot stand
 
  []
 
 
-Package array Warning: Column L is already defined on input line 179.
+Package array Warning: Column L is already defined on input line 169.
 
 
-Package array Warning: Column I is already defined on input line 180.
+Package array Warning: Column I is already defined on input line 170.
 
-<rp_kandidaten.png, id=686, 451.6875pt x 432.61626pt>
+<rp_kandidaten.png, id=739, 451.6875pt x 432.61626pt>
 File: rp_kandidaten.png Graphic file (type png)
  <use rp_kandidaten.png>
-Package pdftex.def Info: rp_kandidaten.png used on input line 192.
+Package pdftex.def Info: rp_kandidaten.png used on input line 182.
 (pdftex.def)             Requested size: 165.96344pt x 158.95651pt.
 
 [17]) (theoretisch_maximum.tex [18 <./rp_kandidaten.png>]
-<overzicht_resultaten_strategien_plot1.png, id=714, 1011.78pt x 500.87125pt>
+<overzicht_resultaten_strategien_plot1.png, id=774, 1011.78pt x 500.87125pt>
 File: overzicht_resultaten_strategien_plot1.png Graphic file (type png)
 
 <use overzicht_resultaten_strategien_plot1.png>
@@ -1582,142 +1589,143 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-<Aantal_vrouwen_aantal_zetels1.png, id=768, 1004.75375pt x 596.2275pt>
+<Aantal_vrouwen_aantal_zetels1.png, id=832, 1004.75375pt x 596.2275pt>
 File: Aantal_vrouwen_aantal_zetels1.png Graphic file (type png)
 
 <use Aantal_vrouwen_aantal_zetels1.png>
 Package pdftex.def Info: Aantal_vrouwen_aantal_zetels1.png used on input line 1
 66.
 (pdftex.def)             Requested size: 395.15277pt x 234.4838pt.
- (topN_peiling_per_partij.tex)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[23 <./Aantal_vrouwen_aantal_zetels1.png>]
-<stemmen_op_vrouwen_topN_peiling.png, id=792, 1112.155pt x 479.7925pt>
+ (topN_peiling_per_partij.tex) [23 <./Aantal_vrouwen_aantal_zetels1.png>]
+<stemmen_op_vrouwen_topN_peiling.png, id=857, 1112.155pt x 479.7925pt>
 File: stemmen_op_vrouwen_topN_peiling.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_topN_peiling.png>
 Package pdftex.def Info: stemmen_op_vrouwen_topN_peiling.png used on input line
- 196.
+ 198.
 (pdftex.def)             Requested size: 395.15277pt x 170.47028pt.
  [24]
-<stemmen_op_vrouwen_topN_uitslag.png, id=807, 1112.155pt x 479.7925pt>
+<stemmen_op_vrouwen_topN_uitslag.png, id=871, 1112.155pt x 479.7925pt>
 File: stemmen_op_vrouwen_topN_uitslag.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_topN_uitslag.png>
 Package pdftex.def Info: stemmen_op_vrouwen_topN_uitslag.png used on input line
- 215.
+ 217.
 (pdftex.def)             Requested size: 395.15277pt x 170.47028pt.
- [25 <./stemmen_op_vrouwen_topN_peiling.png>]
-
-LaTeX Warning: Hyper reference `opstellen' on page 26 undefined on input line 2
-25.
-
-<pie_chart_topN.png, id=822, 703.62875pt x 685.56125pt>
+ [25 <./stemmen_op_vrouwen_topN_peiling.png>] <pie_chart_topN.png, id=886, 703.
+62875pt x 685.56125pt>
 File: pie_chart_topN.png Graphic file (type png)
 
 <use pie_chart_topN.png>
-Package pdftex.def Info: pie_chart_topN.png used on input line 229.
+Package pdftex.def Info: pie_chart_topN.png used on input line 231.
 (pdftex.def)             Requested size: 138.30588pt x 134.74567pt.
  [26 <./stemmen_op_vrouwen_topN_uitslag.png> <./pie_chart_topN.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
  []
 
-<stemmen_op_vrouwen_willekeurig_samen.png, id=831, 1094.0875pt x 479.7925pt>
+<stemmen_op_vrouwen_willekeurig_samen.png, id=897, 1094.0875pt x 479.7925pt>
 File: stemmen_op_vrouwen_willekeurig_samen.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_willekeurig_samen.png>
 Package pdftex.def Info: stemmen_op_vrouwen_willekeurig_samen.png used on input
- line 255.
+ line 259.
 (pdftex.def)             Requested size: 395.15277pt x 173.28888pt.
  [27]
-<pie_chart_willekeurig.png, id=839, 703.62875pt x 685.56125pt>
+<pie_chart_willekeurig.png, id=912, 703.62875pt x 685.56125pt>
 File: pie_chart_willekeurig.png Graphic file (type png)
 
 <use pie_chart_willekeurig.png>
-Package pdftex.def Info: pie_chart_willekeurig.png used on input line 273.
+Package pdftex.def Info: pie_chart_willekeurig.png used on input line 272.
 (pdftex.def)             Requested size: 138.30588pt x 134.74567pt.
  [28 <./stemmen_op_vrouwen_willekeurig_samen.png> <./pie_chart_willekeurig.png>
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
 
-<top15_of_topN_kandidaten.png, id=848, 986.68625pt x 578.16pt>
+<top15_of_topN_kandidaten.png, id=921, 986.68625pt x 578.16pt>
 File: top15_of_topN_kandidaten.png Graphic file (type png)
 
 <use top15_of_topN_kandidaten.png>
-Package pdftex.def Info: top15_of_topN_kandidaten.png used on input line 303.
+Package pdftex.def Info: top15_of_topN_kandidaten.png used on input line 302.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
- [29]
-<stemmen_op_vrouwen_top15_of_topN_samen.png, id=856, 1094.0875pt x 479.7925pt>
+ [29 <./top15_of_topN_kandidaten.png>]
+<stemmen_op_vrouwen_top15_of_topN_samen.png, id=935, 1094.0875pt x 479.7925pt>
 File: stemmen_op_vrouwen_top15_of_topN_samen.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_top15_of_topN_samen.png>
 Package pdftex.def Info: stemmen_op_vrouwen_top15_of_topN_samen.png used on inp
-ut line 319.
+ut line 318.
 (pdftex.def)             Requested size: 395.15277pt x 173.28888pt.
- [30 <./top15_of_topN_kandidaten.png>] <pie_chart_top15_of_topN.png, id=865, 70
-3.62875pt x 685.56125pt>
+
+<pie_chart_top15_of_topN.png, id=946, 703.62875pt x 685.56125pt>
 File: pie_chart_top15_of_topN.png Graphic file (type png)
 
 <use pie_chart_top15_of_topN.png>
-Package pdftex.def Info: pie_chart_top15_of_topN.png used on input line 334.
+Package pdftex.def Info: pie_chart_top15_of_topN.png used on input line 333.
 (pdftex.def)             Requested size: 138.30588pt x 134.74567pt.
- [31 <./stemmen_op_vrouwen_top15_of_topN_samen.png> <./pie_chart_top15_of_topN.
-png>]
-<eigenX_partijen.png, id=875, 986.68625pt x 578.16pt>
+ [30 <./stemmen_op_vrouwen_top15_of_topN_samen.png>] [31 <./pie_chart_top15_of_
+topN.png>]
+<eigenX_partijen.png, id=961, 986.68625pt x 578.16pt>
 File: eigenX_partijen.png Graphic file (type png)
 
 <use eigenX_partijen.png>
-Package pdftex.def Info: eigenX_partijen.png used on input line 371.
+Package pdftex.def Info: eigenX_partijen.png used on input line 370.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
- [32]
-<stemmen_op_vrouwen_eigenX_samen.png, id=883, 1094.0875pt x 479.7925pt>
+
+<stemmen_op_vrouwen_eigenX_samen.png, id=964, 1094.0875pt x 479.7925pt>
 File: stemmen_op_vrouwen_eigenX_samen.png Graphic file (type png)
 
 <use stemmen_op_vrouwen_eigenX_samen.png>
 Package pdftex.def Info: stemmen_op_vrouwen_eigenX_samen.png used on input line
- 386.
+ 385.
 (pdftex.def)             Requested size: 395.15277pt x 173.28888pt.
- [33 <./eigenX_partijen.png> <./stemmen_op_vrouwen_eigenX_samen.png>]
-<pie_chart_eigenX.png, id=893, 703.62875pt x 685.56125pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32 <./eigenX_partijen.png>]
+<pie_chart_eigenX.png, id=982, 703.62875pt x 685.56125pt>
 File: pie_chart_eigenX.png Graphic file (type png)
 
 <use pie_chart_eigenX.png>
-Package pdftex.def Info: pie_chart_eigenX.png used on input line 401.
+Package pdftex.def Info: pie_chart_eigenX.png used on input line 400.
 (pdftex.def)             Requested size: 138.30588pt x 134.74567pt.
- [34 <./pie_chart_eigenX.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 418--420
+ [33 <./stemmen_op_vrouwen_eigenX_samen.png> <./pie_chart_eigenX.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 417--419
 
  []
 
-[35] <topn_vermenigvuldiging2.png, id=909, 1226.5825pt x 730.73pt>
+[34] <topn_vermenigvuldiging2.png, id=999, 1226.5825pt x 730.73pt>
 File: topn_vermenigvuldiging2.png Graphic file (type png)
 
 <use topn_vermenigvuldiging2.png>
-Package pdftex.def Info: topn_vermenigvuldiging2.png used on input line 440.
+Package pdftex.def Info: topn_vermenigvuldiging2.png used on input line 439.
 (pdftex.def)             Requested size: 395.15277pt x 235.41052pt.
- [36 <./topn_vermenigvuldiging2.png>]
-<stemmen_op_vrouwen_topNextrapercentage_samen.png, id=922, 1401.235pt x 879.285
-pt>
+ [35 <./topn_vermenigvuldiging2.png>]
+<stemmen_op_vrouwen_topNextrapercentage_samen.png, id=1012, 1401.235pt x 879.28
+5pt>
 File: stemmen_op_vrouwen_topNextrapercentage_samen.png Graphic file (type png)
  <use stemmen_op_vrouwen_topNextrapercentage_samen.png>
 Package pdftex.def Info: stemmen_op_vrouwen_topNextrapercentage_samen.png used 
-on input line 459.
+on input line 457.
 (pdftex.def)             Requested size: 395.15277pt x 247.95572pt.
- [37 <./stemmen_op_vrouwen_topNextrapercentage_samen.png>]
-<topNextrapercentage_aantal_vrouwen_overzicht.png, id=932, 993.7125pt x 522.953
-75pt>
+ [36]
+<topNextrapercentage_aantal_vrouwen_overzicht.png, id=1028, 993.7125pt x 522.95
+375pt>
 File: topNextrapercentage_aantal_vrouwen_overzicht.png Graphic file (type png)
  <use topNextrapercentage_aantal_vrouwen_overzicht.png>
 Package pdftex.def Info: topNextrapercentage_aantal_vrouwen_overzicht.png used 
-on input line 476.
+on input line 471.
 (pdftex.def)             Requested size: 395.15277pt x 207.95691pt.
- [38 <./topNextrapercentage_aantal_vrouwen_overzicht.png>]) (factoren_invloed.t
-ex [39]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37 <./stemmen_op_vrouwen_topNextrapercentage_samen.png>])
+(factoren_invloed.tex [38 <./topNextrapercentage_aantal_vrouwen_overzicht.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
@@ -1739,86 +1747,83 @@ Underfull \hbox (badness 1546) in paragraph at lines 30--30
 \OT1/cmr/m/n/10 (bij-voor-beeld de be-vol-kings-groep man-nen te-gen-over
  []
 
-[40]
+[39]
 
-LaTeX Warning: Reference `sec:math' on page 41 undefined on input line 56.
+LaTeX Warning: Reference `sec:math' on page 40 undefined on input line 53.
 
-[41] (hoogst_vrouwen_voorkeurstemmen_tabel.tex) [42]
-<percentages_van_vrouwenS1S2.png, id=978, 1011.78pt x 528.97626pt>
+[40] (hoogst_vrouwen_voorkeurstemmen_tabel.tex) [41]
+<percentages_van_vrouwenS1S2.png, id=1082, 1011.78pt x 528.97626pt>
 File: percentages_van_vrouwenS1S2.png Graphic file (type png)
 
 <use percentages_van_vrouwenS1S2.png>
-Package pdftex.def Info: percentages_van_vrouwenS1S2.png used on input line 85.
+Package pdftex.def Info: percentages_van_vrouwenS1S2.png used on input line 80.
 
 (pdftex.def)             Requested size: 395.15277pt x 206.59048pt.
- [43 <./percentages_van_vrouwenS1S2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+ [42 <./percentages_van_vrouwenS1S2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-(hoogste_allochtonen_voorkeurstemmen_tabel.tex) [44]
-<percentages_van_allochtonenS1S2.png, id=1016, 1011.78pt x 528.97626pt>
+(hoogste_allochtonen_voorkeurstemmen_tabel.tex) [43]
+<percentages_van_allochtonenS1S2.png, id=1124, 1011.78pt x 528.97626pt>
 File: percentages_van_allochtonenS1S2.png Graphic file (type png)
 
 <use percentages_van_allochtonenS1S2.png>
 Package pdftex.def Info: percentages_van_allochtonenS1S2.png used on input line
- 131.
+ 126.
 (pdftex.def)             Requested size: 395.15277pt x 206.59048pt.
 
 
-LaTeX Warning: Reference `sec:math' on page 45 undefined on input line 150.
+LaTeX Warning: Reference `sec:math' on page 44 undefined on input line 145.
 
-[45 <./percentages_van_allochtonenS1S2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+[44 <./percentages_van_allochtonenS1S2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
-(hoogste_ouderen_voorkeurstemmen_tabel2.tex) [46]
-<percentages_van_ouderenS1S2.png, id=1045, 1011.78pt x 528.97626pt>
+(hoogste_ouderen_voorkeurstemmen_tabel2.tex) [45]
+<percentages_van_ouderenS1S2.png, id=1157, 1011.78pt x 528.97626pt>
 File: percentages_van_ouderenS1S2.png Graphic file (type png)
 
 <use percentages_van_ouderenS1S2.png>
-Package pdftex.def Info: percentages_van_ouderenS1S2.png used on input line 172
+Package pdftex.def Info: percentages_van_ouderenS1S2.png used on input line 169
 .
 (pdftex.def)             Requested size: 395.15277pt x 206.59048pt.
- [47 <./percentages_van_ouderenS1S2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
-
- []
-
+ [46 <./percentages_van_ouderenS1S2.png>]
 (hoogste_provincialen_voorkeurstemmen_tabel3.tex)
-Overfull \hbox (4.6397pt too wide) in paragraph at lines 1--205
+Overfull \hbox (4.6397pt too wide) in paragraph at lines 1--204
  [][] 
  []
 
-[48]
-<percentages_van_provincialenS1S2S4.png, id=1074, 1571.8725pt x 809.0225pt>
-File: percentages_van_provincialenS1S2S4.png Graphic file (type png)
+[47] <percentages_van_provincialenS1S2.png, id=1193, 1011.78pt x 528.97626pt>
+File: percentages_van_provincialenS1S2.png Graphic file (type png)
 
-<use percentages_van_provincialenS1S2S4.png>
-Package pdftex.def Info: percentages_van_provincialenS1S2S4.png used on input l
-ine 216.
-(pdftex.def)             Requested size: 395.15277pt x 203.3785pt.
-) (uitvoerbaarheid_strategien.tex
-[49 <./percentages_van_provincialenS1S2S4.png>] [50]
-<website_verkiezingen1.png, id=1100, 1381.16pt x 778.91pt>
+<use percentages_van_provincialenS1S2.png>
+Package pdftex.def Info: percentages_van_provincialenS1S2.png used on input lin
+e 215.
+(pdftex.def)             Requested size: 395.15277pt x 206.59048pt.
+ [48 <./percentages_van_provincialenS1S2.png>]) (uitvoerbaarheid_strategien.tex
+ [49] [50]
+<website_verkiezingen1.png, id=1223, 1381.16pt x 778.91pt>
 File: website_verkiezingen1.png Graphic file (type png)
 
 <use website_verkiezingen1.png>
-Package pdftex.def Info: website_verkiezingen1.png used on input line 26.
+Package pdftex.def Info: website_verkiezingen1.png used on input line 27.
 (pdftex.def)             Requested size: 395.15277pt x 222.8474pt.
  [51 <./website_verkiezingen1.png>]
-<app_verkiezingen.png, id=1114, 1021.8175pt x 792.9625pt>
+Overfull \hbox (7.88223pt too wide) in paragraph at lines 38--39
+[] []\OT1/cmr/bx/n/10 Hulp-mid-del die wil-le-keu-rige kan-di-daat se-lec-teert
+.[] \OT1/cmr/m/n/10 We stel-len de tweede IT-toepassing
+ []
+
+<app_verkiezingen.png, id=1237, 1021.8175pt x 792.9625pt>
 File: app_verkiezingen.png Graphic file (type png)
 
 <use app_verkiezingen.png>
-Package pdftex.def Info: app_verkiezingen.png used on input line 44.
+Package pdftex.def Info: app_verkiezingen.png used on input line 46.
 (pdftex.def)             Requested size: 395.15277pt x 306.64061pt.
- [52 <./app_verkiezingen.png>]
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 65.
- [53] [54]
-<website_verkiezingen2.png, id=1189, 1381.16pt x 778.91pt>
+ [52 <./app_verkiezingen.png>] [53] [54]
+<website_verkiezingen2.png, id=1311, 1381.16pt x 778.91pt>
 File: website_verkiezingen2.png Graphic file (type png)
 
 <use website_verkiezingen2.png>
@@ -1843,7 +1848,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-[60] [61]) (conclusie.tex [62] [63] [64]) (main.bbl [65]
+[60] [61]) (conclusie.tex [62] [63] [64]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+[65]) (main.bbl [66]
 Underfull \hbox (badness 1442) in paragraph at lines 732--746
 []\OT1/cmr/m/n/10 EuropeCouncil.  (2012).  \OT1/cmr/m/it/10 Po-si-tive ac-tion 
 in the field of equa-lity bet-ween wo-men
@@ -1867,7 +1912,7 @@ Underfull \hbox (badness 2012) in paragraph at lines 988--1001
 itslagen [] .nl / Na1918 / Verkiezingsuitslagen []$
  []
 
-[66] [67]
+[67] [68]
 Underfull \hbox (badness 2310) in paragraph at lines 1581--1596
 []\OT1/cmr/m/n/10 Opiniehuis.  (2012).  \OT1/cmr/m/it/10 Opi-nie-huis opi-nie-p
 ei-ling naar stem-ge-drag en stem-mo-tie-ven
@@ -1891,7 +1936,7 @@ Underfull \hbox (badness 4242) in paragraph at lines 1735--1749
 m/n/10 Op 2016-04-22 ver-kre-gen
  []
 
-[68]
+[69]
 Underfull \hbox (badness 5667) in paragraph at lines 2084--2098
 \OT1/cmr/m/n/10 2016-05-16 ver-kre-gen van [][]$\OT1/cmtt/m/n/10 http :// www [
 ] .trouw [] .nl / tr / nl / 4504 / Economie / article /$
@@ -1903,325 +1948,321 @@ $\OT1/cmtt/m/n/10 detail / 3666338 / 2014 / 06 / 04 / Participatiewet [] -vergr
 oot [] -kloof [] -tussen [] -Randstad []$
  []
 
-[69]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 2361--2375
 $\OT1/cmtt/m/n/10 Besluitenlijsten / 2014 / 4 [] .8 % 20 % 20bestuursconvenant 
 % 20samenwerking % 20alphen []$
  []
 
-) (bijlage1.tex [70] (tabel1_allochtonen.tex) [71] (tabel2_allochtonen.tex)
-[72]
-<Aantal_allochtonen_aantal_zetels1.png, id=1383, 1004.75375pt x 596.2275pt>
+) (bijlage1.tex [71] (tabel1_allochtonen.tex) [72] (tabel2_allochtonen.tex)
+<Aantal_allochtonen_aantal_zetels1.png, id=1505, 1004.75375pt x 596.2275pt>
 File: Aantal_allochtonen_aantal_zetels1.png Graphic file (type png)
 
 <use Aantal_allochtonen_aantal_zetels1.png>
 Package pdftex.def Info: Aantal_allochtonen_aantal_zetels1.png used on input li
-ne 58.
+ne 52.
 (pdftex.def)             Requested size: 395.15277pt x 234.4838pt.
- (tabel3_allochtonen.tex) [73 <./Aantal_allochtonen_aantal_zetels1.png>]
-<stemmen_op_allochtonen_topN_samen2.png, id=1397, 1038.88126pt x 479.7925pt>
+ [73] (tabel3_allochtonen.tex)
+[74 <./Aantal_allochtonen_aantal_zetels1.png>]
+<stemmen_op_allochtonen_topN_samen2.png, id=1523, 1038.88126pt x 479.7925pt>
 File: stemmen_op_allochtonen_topN_samen2.png Graphic file (type png)
 
 <use stemmen_op_allochtonen_topN_samen2.png>
 Package pdftex.def Info: stemmen_op_allochtonen_topN_samen2.png used on input l
-ine 95.
+ine 89.
 (pdftex.def)             Requested size: 395.15277pt x 182.49141pt.
- [74 <./stemmen_op_allochtonen_topN_samen2.png>]
-<pie_chart_topN_allochtonen.png, id=1406, 736.7525pt x 685.56125pt>
+
+<pie_chart_topN_allochtonen.png, id=1535, 736.7525pt x 685.56125pt>
 File: pie_chart_topN_allochtonen.png Graphic file (type png)
 
 <use pie_chart_topN_allochtonen.png>
-Package pdftex.def Info: pie_chart_topN_allochtonen.png used on input line 110.
+Package pdftex.def Info: pie_chart_topN_allochtonen.png used on input line 104.
 
-(pdftex.def)             Requested size: 138.30588pt x 128.68886pt.
-
-<stemmen_op_allochtonen_willekeurig_samen2.png, id=1410, 1038.88126pt x 479.792
+(pdftex.def)             Requested size: 130.40112pt x 121.33492pt.
+ [75 <./stemmen_op_allochtonen_topN_samen2.png> <./pie_chart_topN_allochtonen.p
+ng>]
+<stemmen_op_allochtonen_willekeurig_samen2.png, id=1547, 1038.88126pt x 479.792
 5pt>
 File: stemmen_op_allochtonen_willekeurig_samen2.png Graphic file (type png)
  <use stemmen_op_allochtonen_willekeurig_samen2.png>
 Package pdftex.def Info: stemmen_op_allochtonen_willekeurig_samen2.png used on 
-input line 135.
+input line 129.
 (pdftex.def)             Requested size: 395.15277pt x 182.49141pt.
- [75 <./pie_chart_topN_allochtonen.png>]
+ [76 <./stemmen_op_allochtonen_willekeurig_samen2.png>]
 File: pie_chart_topN_allochtonen.png Graphic file (type png)
  <use pie_chart_topN_allochtonen.png>
-Package pdftex.def Info: pie_chart_topN_allochtonen.png used on input line 150.
+Package pdftex.def Info: pie_chart_topN_allochtonen.png used on input line 144.
 
 (pdftex.def)             Requested size: 138.30588pt x 128.68886pt.
- [76 <./stemmen_op_allochtonen_willekeurig_samen2.png>] (tabel1_ouderen.tex) [7
-7] (tabel2_ouderen.tex)
-<Aantal_ouderen_aantal_zetels1.png, id=1444, 1004.75375pt x 596.2275pt>
+ [77]
+(tabel1_ouderen.tex) (tabel2_ouderen.tex) [78]
+<Aantal_ouderen_aantal_zetels1.png, id=1587, 1004.75375pt x 596.2275pt>
 File: Aantal_ouderen_aantal_zetels1.png Graphic file (type png)
 
 <use Aantal_ouderen_aantal_zetels1.png>
 Package pdftex.def Info: Aantal_ouderen_aantal_zetels1.png used on input line 2
-16.
+01.
 (pdftex.def)             Requested size: 387.24802pt x 229.78938pt.
- [78 <./Aantal_ouderen_aantal_zetels1.png>] (tabel3_ouderen.tex)
-<stemmen_op_ouderen_topN_peiling.png, id=1455, 1078.0275pt x 435.6275pt>
+ (tabel3_ouderen.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<stemmen_op_ouderen_topN_peiling.png, id=1595, 1078.0275pt x 435.6275pt>
 File: stemmen_op_ouderen_topN_peiling.png Graphic file (type png)
 
 <use stemmen_op_ouderen_topN_peiling.png>
 Package pdftex.def Info: stemmen_op_ouderen_topN_peiling.png used on input line
- 248.
+ 233.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
- [79 <./stemmen_op_ouderen_topN_peiling.png>]
-
-Package caption Warning: \label without proper reference on input line 267.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:pcS1O' on page 80 undefined on input line 259.
-
-<pie_chart_topN_ouderen.png, id=1466, 855.195pt x 685.56125pt>
+ [79 <./Aantal_ouderen_aantal_zetels1.png>] <pie_chart_topN_ouderen.png, id=161
+4, 855.195pt x 685.56125pt>
 File: pie_chart_topN_ouderen.png Graphic file (type png)
 
 <use pie_chart_topN_ouderen.png>
-Package pdftex.def Info: pie_chart_topN_ouderen.png used on input line 263.
+Package pdftex.def Info: pie_chart_topN_ouderen.png used on input line 248.
 (pdftex.def)             Requested size: 165.96344pt x 133.04056pt.
-
-<stemmen_op_ouderen_willekeurig_samen.png, id=1470, 1078.0275pt x 435.6275pt>
+ [80 <./stemmen_op_ouderen_topN_peiling.png>]
+<stemmen_op_ouderen_willekeurig_samen.png, id=1625, 1078.0275pt x 435.6275pt>
 File: stemmen_op_ouderen_willekeurig_samen.png Graphic file (type png)
 
 <use stemmen_op_ouderen_willekeurig_samen.png>
 Package pdftex.def Info: stemmen_op_ouderen_willekeurig_samen.png used on input
- line 288.
+ line 270.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
- [80 <./pie_chart_topN_ouderen.png>] <pie_chart_willekeurig_ouderen.png, id=148
-0, 801.99625pt x 685.56125pt>
+ [81 <./pie_chart_topN_ouderen.png>] <pie_chart_willekeurig_ouderen.png, id=164
+2, 801.99625pt x 685.56125pt>
 File: pie_chart_willekeurig_ouderen.png Graphic file (type png)
 
 <use pie_chart_willekeurig_ouderen.png>
-Package pdftex.def Info: pie_chart_willekeurig_ouderen.png used on input line 3
-03.
+Package pdftex.def Info: pie_chart_willekeurig_ouderen.png used on input line 2
+85.
 (pdftex.def)             Requested size: 165.96344pt x 141.86948pt.
- [81 <./stemmen_op_ouderen_willekeurig_samen.png> <./pie_chart_willekeurig_oude
+ [82 <./stemmen_op_ouderen_willekeurig_samen.png> <./pie_chart_willekeurig_oude
 ren.png>]
-<top15_of_topN_kandidaten_ouderen.png, id=1489, 986.68625pt x 573.14125pt>
+<top15_of_topN_kandidaten_ouderen.png, id=1651, 986.68625pt x 573.14125pt>
 File: top15_of_topN_kandidaten_ouderen.png Graphic file (type png)
 
 <use top15_of_topN_kandidaten_ouderen.png>
 Package pdftex.def Info: top15_of_topN_kandidaten_ouderen.png used on input lin
-e 331.
+e 313.
 (pdftex.def)             Requested size: 395.15277pt x 229.53229pt.
 
-<stemmen_op_ouderen_top15_of_topN_samen.png, id=1493, 1078.0275pt x 479.7925pt>
+<stemmen_op_ouderen_top15_of_topN_samen.png, id=1655, 1078.0275pt x 479.7925pt>
 File: stemmen_op_ouderen_top15_of_topN_samen.png Graphic file (type png)
 <use stemmen_op_ouderen_top15_of_topN_samen.png>
 Package pdftex.def Info: stemmen_op_ouderen_top15_of_topN_samen.png used on inp
-ut line 346.
+ut line 328.
 (pdftex.def)             Requested size: 395.15277pt x 175.86588pt.
- [82 <./top15_of_topN_kandidaten_ouderen.png>]
-<pie_chart_top15_of_topN_ouderen.png, id=1503, 843.15pt x 685.56125pt>
+ [83 <./top15_of_topN_kandidaten_ouderen.png>]
+<pie_chart_top15_of_topN_ouderen.png, id=1673, 843.15pt x 685.56125pt>
 File: pie_chart_top15_of_topN_ouderen.png Graphic file (type png)
 
 <use pie_chart_top15_of_topN_ouderen.png>
 Package pdftex.def Info: pie_chart_top15_of_topN_ouderen.png used on input line
- 360.
+ 342.
 (pdftex.def)             Requested size: 165.96344pt x 134.94443pt.
- [83 <./stemmen_op_ouderen_top15_of_topN_samen.png> <./pie_chart_top15_of_topN_
+ [84 <./stemmen_op_ouderen_top15_of_topN_samen.png> <./pie_chart_top15_of_topN_
 ouderen.png>]
-<eigenX_partijen_ouderen.png, id=1512, 986.68625pt x 578.16pt>
+<eigenX_partijen_ouderen.png, id=1682, 986.68625pt x 578.16pt>
 File: eigenX_partijen_ouderen.png Graphic file (type png)
 
 <use eigenX_partijen_ouderen.png>
-Package pdftex.def Info: eigenX_partijen_ouderen.png used on input line 383.
+Package pdftex.def Info: eigenX_partijen_ouderen.png used on input line 365.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
- [84 <./eigenX_partijen_ouderen.png>]
-<stemmen_op_ouderen_eigenX_samen.png, id=1522, 1078.0275pt x 435.6275pt>
+ [85 <./eigenX_partijen_ouderen.png>]
+<stemmen_op_ouderen_eigenX_samen.png, id=1693, 1078.0275pt x 435.6275pt>
 File: stemmen_op_ouderen_eigenX_samen.png Graphic file (type png)
 
 <use stemmen_op_ouderen_eigenX_samen.png>
 Package pdftex.def Info: stemmen_op_ouderen_eigenX_samen.png used on input line
- 399.
+ 381.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
 
-<pie_chart_eigenX_ouderen.png, id=1525, 721.69624pt x 685.56125pt>
+<pie_chart_eigenX_ouderen.png, id=1704, 721.69624pt x 685.56125pt>
 File: pie_chart_eigenX_ouderen.png Graphic file (type png)
 
 <use pie_chart_eigenX_ouderen.png>
-Package pdftex.def Info: pie_chart_eigenX_ouderen.png used on input line 414.
+Package pdftex.def Info: pie_chart_eigenX_ouderen.png used on input line 396.
 (pdftex.def)             Requested size: 158.05869pt x 150.14398pt.
- [85 <./stemmen_op_ouderen_eigenX_samen.png>] <topN_vermenigvuldiging_ouderen.p
-ng, id=1536, 1190.4475pt x 730.73pt>
+ [86 <./stemmen_op_ouderen_eigenX_samen.png>] <topN_vermenigvuldiging_ouderen.p
+ng, id=1714, 1190.4475pt x 730.73pt>
 File: topN_vermenigvuldiging_ouderen.png Graphic file (type png)
 
 <use topN_vermenigvuldiging_ouderen.png>
 Package pdftex.def Info: topN_vermenigvuldiging_ouderen.png used on input line 
-444.
+426.
 (pdftex.def)             Requested size: 395.15277pt x 242.54654pt.
- [86 <./pie_chart_eigenX_ouderen.png>]
-<stemmen_op_ouderen_topNextrapercentage_samen.png, id=1546, 1409.265pt x 879.28
+ [87 <./pie_chart_eigenX_ouderen.png>]
+<stemmen_op_ouderen_topNextrapercentage_samen.png, id=1725, 1409.265pt x 879.28
 5pt>
 File: stemmen_op_ouderen_topNextrapercentage_samen.png Graphic file (type png)
  <use stemmen_op_ouderen_topNextrapercentage_samen.png>
 Package pdftex.def Info: stemmen_op_ouderen_topNextrapercentage_samen.png used 
-on input line 459.
+on input line 442.
 (pdftex.def)             Requested size: 395.15277pt x 246.54695pt.
- [87 <./topN_vermenigvuldiging_ouderen.png>]
-<topNextrapercentage_aantal_ouderen_overzicht.png, id=1555, 993.7125pt x 498.86
+ [88 <./topN_vermenigvuldiging_ouderen.png>]
+<topNextrapercentage_aantal_ouderen_overzicht.png, id=1733, 993.7125pt x 498.86
 375pt>
 File: topNextrapercentage_aantal_ouderen_overzicht.png Graphic file (type png)
  <use topNextrapercentage_aantal_ouderen_overzicht.png>
 Package pdftex.def Info: topNextrapercentage_aantal_ouderen_overzicht.png used 
-on input line 477.
+on input line 460.
 (pdftex.def)             Requested size: 395.15277pt x 198.37732pt.
- [88 <./stemmen_op_ouderen_topNextrapercentage_samen.png>] [89 <./topNextraperc
-entage_aantal_ouderen_overzicht.png>] (tabel1_provincialen.tex) (tabel2_provinc
-ialen.tex)
+ [89 <./stemmen_op_ouderen_topNextrapercentage_samen.png> <./topNextrapercentag
+e_aantal_ouderen_overzicht.png>] (tabel1_provincialen.tex)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Aantal_provincialen_aantal_zetels1.png, id=1581, 1004.75375pt x 596.2275pt>
+[90] (tabel2_provincialen.tex)
+<Aantal_provincialen_aantal_zetels1.png, id=1760, 1004.75375pt x 596.2275pt>
 File: Aantal_provincialen_aantal_zetels1.png Graphic file (type png)
 
 <use Aantal_provincialen_aantal_zetels1.png>
 Package pdftex.def Info: Aantal_provincialen_aantal_zetels1.png used on input l
-ine 544.
+ine 520.
 (pdftex.def)             Requested size: 395.15277pt x 234.4838pt.
- [90] (tabel3_provincialen.tex)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[91 <./Aantal_provincialen_aantal_zetels1.png>]
-<stemmen_op_provincialen_topN_samen.png, id=1601, 1078.0275pt x 435.6275pt>
+ [91] (tabel3_provincialen.tex)
+[92 <./Aantal_provincialen_aantal_zetels1.png>]
+<stemmen_op_provincialen_topN_samen.png, id=1779, 1078.0275pt x 435.6275pt>
 File: stemmen_op_provincialen_topN_samen.png Graphic file (type png)
 
 <use stemmen_op_provincialen_topN_samen.png>
 Package pdftex.def Info: stemmen_op_provincialen_topN_samen.png used on input l
-ine 577.
+ine 553.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
 
-<pie_chart_topN_provincialen.png, id=1604, 1025.8325pt x 685.56125pt>
+<pie_chart_topN_provincialen.png, id=1790, 1025.8325pt x 685.56125pt>
 File: pie_chart_topN_provincialen.png Graphic file (type png)
 
 <use pie_chart_topN_provincialen.png>
-Package pdftex.def Info: pie_chart_topN_provincialen.png used on input line 592
+Package pdftex.def Info: pie_chart_topN_provincialen.png used on input line 568
 .
 (pdftex.def)             Requested size: 177.81754pt x 118.83478pt.
- [92 <./stemmen_op_provincialen_topN_samen.png>]
-<stemmen_op_provincialen_willekeurig_samen.png, id=1615, 1078.0275pt x 435.6275
+ [93 <./stemmen_op_provincialen_topN_samen.png> <./pie_chart_topN_provincialen.
+png>]
+<stemmen_op_provincialen_willekeurig_samen.png, id=1802, 1078.0275pt x 435.6275
 pt>
 File: stemmen_op_provincialen_willekeurig_samen.png Graphic file (type png)
  <use stemmen_op_provincialen_willekeurig_samen.png>
 Package pdftex.def Info: stemmen_op_provincialen_willekeurig_samen.png used on 
-input line 617.
+input line 593.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
- [93 <./pie_chart_topN_provincialen.png>]
-<pie_chart_willekeurig_provincialen1.png, id=1624, 997.7275pt x 685.56125pt>
+ [94 <./stemmen_op_provincialen_willekeurig_samen.png>]
+<pie_chart_willekeurig_provincialen1.png, id=1819, 997.7275pt x 685.56125pt>
 File: pie_chart_willekeurig_provincialen1.png Graphic file (type png)
 
 <use pie_chart_willekeurig_provincialen1.png>
 Package pdftex.def Info: pie_chart_willekeurig_provincialen1.png used on input 
-line 632.
+line 608.
 (pdftex.def)             Requested size: 177.81754pt x 122.18224pt.
- [94 <./stemmen_op_provincialen_willekeurig_samen.png> <./pie_chart_willekeurig
-_provincialen1.png>]
-<top15_of_topN_kandidaten_provincialen.png, id=1633, 986.68625pt x 578.16pt>
+
+<top15_of_topN_kandidaten_provincialen.png, id=1821, 986.68625pt x 578.16pt>
 File: top15_of_topN_kandidaten_provincialen.png Graphic file (type png)
 
 <use top15_of_topN_kandidaten_provincialen.png>
 Package pdftex.def Info: top15_of_topN_kandidaten_provincialen.png used on inpu
-t line 655.
+t line 631.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
-
-<stemmen_op_provincialen_top15_of_topN_samen.png, id=1637, 1078.0275pt x 435.62
+ [95 <./pie_chart_willekeurig_provincialen1.png>]
+<stemmen_op_provincialen_top15_of_topN_samen.png, id=1832, 1078.0275pt x 435.62
 75pt>
 File: stemmen_op_provincialen_top15_of_topN_samen.png Graphic file (type png)
  <use stemmen_op_provincialen_top15_of_topN_samen.png>
 Package pdftex.def Info: stemmen_op_provincialen_top15_of_topN_samen.png used o
-n input line 668.
+n input line 644.
 (pdftex.def)             Requested size: 395.15277pt x 159.6774pt.
- [95 <./top15_of_topN_kandidaten_provincialen.png>]
-<pie_chart_top15_of_topN_provincialen.png, id=1647, 785.93625pt x 685.56125pt>
+ [96 <./top15_of_topN_kandidaten_provincialen.png> <./stemmen_op_provincialen_t
+op15_of_topN_samen.png>]
+<pie_chart_top15_of_topN_provincialen.png, id=1850, 785.93625pt x 685.56125pt>
 File: pie_chart_top15_of_topN_provincialen.png Graphic file (type png)
 
 <use pie_chart_top15_of_topN_provincialen.png>
 Package pdftex.def Info: pie_chart_top15_of_topN_provincialen.png used on input
- line 682.
+ line 658.
 (pdftex.def)             Requested size: 158.05869pt x 137.87346pt.
- [96 <./stemmen_op_provincialen_top15_of_topN_samen.png> <./pie_chart_top15_of_
-topN_provincialen.png>]
-<eigenX_partijen_provincialen.png, id=1656, 986.68625pt x 578.16pt>
+ [97 <./pie_chart_top15_of_topN_provincialen.png>]
+<eigenX_partijen_provincialen.png, id=1860, 986.68625pt x 578.16pt>
 File: eigenX_partijen_provincialen.png Graphic file (type png)
 
 <use eigenX_partijen_provincialen.png>
-Package pdftex.def Info: eigenX_partijen_provincialen.png used on input line 70
-2.
+Package pdftex.def Info: eigenX_partijen_provincialen.png used on input line 67
+8.
 (pdftex.def)             Requested size: 395.15277pt x 231.5422pt.
 
-<stemmen_op_provincialen_eigenX_samen.png, id=1660, 1078.0275pt x 479.7925pt>
+<stemmen_op_provincialen_eigenX_samen.png, id=1864, 1078.0275pt x 479.7925pt>
 File: stemmen_op_provincialen_eigenX_samen.png Graphic file (type png)
 
 <use stemmen_op_provincialen_eigenX_samen.png>
 Package pdftex.def Info: stemmen_op_provincialen_eigenX_samen.png used on input
- line 716.
+ line 692.
 (pdftex.def)             Requested size: 395.15277pt x 175.86588pt.
- [97 <./eigenX_partijen_provincialen.png>] <pie_chart_eigenX_provincialen.png, 
-id=1671, 931.48pt x 685.56125pt>
+ [98 <./eigenX_partijen_provincialen.png> <./stemmen_op_provincialen_eigenX_sam
+en.png>]
+<pie_chart_eigenX_provincialen.png, id=1882, 931.48pt x 685.56125pt>
 File: pie_chart_eigenX_provincialen.png Graphic file (type png)
 
 <use pie_chart_eigenX_provincialen.png>
 Package pdftex.def Info: pie_chart_eigenX_provincialen.png used on input line 7
-31.
+07.
 (pdftex.def)             Requested size: 177.81754pt x 130.86472pt.
- [98 <./stemmen_op_provincialen_eigenX_samen.png> <./pie_chart_eigenX_provincia
-len.png>]
-Overfull \hbox (7.48195pt too wide) in paragraph at lines 750--751
+
+Overfull \hbox (7.48195pt too wide) in paragraph at lines 726--727
 [] []\OT1/cmr/bx/n/10 Maxi-maal aan-tal pro-vin-ci-ale per par-tij(top \OT1/cmr
 /bx/it/10 N+extra per-cen-tage\OT1/cmr/bx/n/10 ) dat in de Tweede
  []
 
-<topN_vermenigvuldiging_provincialen.png, id=1681, 1190.4475pt x 730.73pt>
+[99 <./pie_chart_eigenX_provincialen.png>]
+<topN_vermenigvuldiging_provincialen.png, id=1891, 1190.4475pt x 730.73pt>
 File: topN_vermenigvuldiging_provincialen.png Graphic file (type png)
 
 <use topN_vermenigvuldiging_provincialen.png>
 Package pdftex.def Info: topN_vermenigvuldiging_provincialen.png used on input 
-line 755.
+line 731.
 (pdftex.def)             Requested size: 395.15277pt x 242.54654pt.
- [99 <./topN_vermenigvuldiging_provincialen.png>]
-<stemmen_op_provincialen_topNextrapercentage_uitslag.png, id=1691, 1371.1225pt 
+
+<stemmen_op_provincialen_topNextrapercentage_uitslag.png, id=1895, 1371.1225pt 
 x 879.285pt>
 File: stemmen_op_provincialen_topNextrapercentage_uitslag.png Graphic file (typ
 e png)
  <use stemmen_op_provincialen_topNextrapercentage_uitslag.png>
 Package pdftex.def Info: stemmen_op_provincialen_topNextrapercentage_uitslag.pn
-g used on input line 771.
+g used on input line 747.
 (pdftex.def)             Requested size: 395.15277pt x 253.40294pt.
 
-<topNextrapercentage_aantal_provincialen_overzicht.png, id=1694, 993.7125pt x 4
+[100 <./topN_vermenigvuldiging_provincialen.png>]
+<topNextrapercentage_aantal_provincialen_overzicht.png, id=1905, 993.7125pt x 4
 98.86375pt>
 File: topNextrapercentage_aantal_provincialen_overzicht.png Graphic file (type 
 png)
  <use topNextrapercentage_aantal_provincialen_overzicht.png>
 Package pdftex.def Info: topNextrapercentage_aantal_provincialen_overzicht.png 
-used on input line 787.
+used on input line 763.
 (pdftex.def)             Requested size: 395.15277pt x 198.37732pt.
 
-[100 <./stemmen_op_provincialen_topNextrapercentage_uitslag.png>])
-(bijlage2.tex [101 <./topNextrapercentage_aantal_provincialen_overzicht.png>]
-[102])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
+[101 <./stemmen_op_provincialen_topNextrapercentage_uitslag.png>])
+(bijlage2.tex [102 <./topNextrapercentage_aantal_provincialen_overzicht.png>]
+[103])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0CFFB808E6E998CBAC61A334656CBDA9;4864.
+(rerunfilecheck)             Checksum: 91FE11B02F8CEBA7DDCADF547040B3F6;4930.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 25831 strings out of 493634
- 483570 string characters out of 3134423
- 678694 words of memory out of 3000000
- 28308 multiletter control sequences out of 15000+200000
- 11403 words of font info for 41 fonts, out of 3000000 for 9000
+ 25958 strings out of 493634
+ 484427 string characters out of 3134423
+ 677435 words of memory out of 3000000
+ 28420 multiletter control sequences out of 15000+200000
+ 12472 words of font info for 46 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 62i,11n,77p,2909b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,77p,3170b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX
@@ -2231,21 +2272,22 @@ l/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmmi10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmmi7.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Michael/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Michael/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/
-Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.p
-fb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmti10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Michael/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Michael
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Michael/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Michael/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users
+/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr9.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Michael/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Michael
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:
 /Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmtt10.pfb>
-Output written on main.pdf (102 pages, 2715004 bytes).
+/cmti9.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (103 pages, 2761846 bytes).
 PDF statistics:
- 1840 PDF objects out of 2073 (max. 8388607)
- 333 named destinations out of 1000 (max. 500000)
- 691 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2054 PDF objects out of 2073 (max. 8388607)
+ 335 named destinations out of 1000 (max. 500000)
+ 704 words of extra memory for PDF output out of 10000 (max. 10000000)
 

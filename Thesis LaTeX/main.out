@@ -1,8 +1,8 @@
 \BOOKMARK [1][-]{section.1}{Introductie}{}% 1
 \BOOKMARK [1][-]{section.2}{Gerelateerd Werk}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{Quota.}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{IT-toepassingen bij verkiezingen.}{section.2}% 4
-\BOOKMARK [1][-]{section.3}{Beschrijving van de Data.}{}% 5
+\BOOKMARK [2][-]{subsection.2.2}{IT-toepassingen bij Verkiezingen.}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Beschrijving van de Data}{}% 5
 \BOOKMARK [2][-]{subsection.3.1}{Datasets betreffende de Bevolkingsgroep Vrouwen.}{section.3}% 6
 \BOOKMARK [2][-]{subsection.3.2}{Datasets betreffende de Bevolkingsgroep Allochtonen.}{section.3}% 7
 \BOOKMARK [2][-]{subsection.3.3}{Datasets betreffende de Bevolkingsgroep Ouderen.}{section.3}% 8
@@ -15,32 +15,33 @@
 \BOOKMARK [3][-]{subsubsection.4.1.4}{Strategie 3.2: Vrouwelijke kiezers stemmen willekeurige op \351\351n van de eerste N vrouwelijke kandidaten van een partij.}{subsection.4.1}% 15
 \BOOKMARK [3][-]{subsubsection.4.1.5}{Strategie 4: Vrouwelijke kiezers stemmen op de top N+extra percentage vrouwelijke kandidaten van een partij.}{subsection.4.1}% 16
 \BOOKMARK [1][-]{section.5}{Factoren en Invloed}{}% 17
-\BOOKMARK [2][-]{subsection.5.1}{Factoren bevolkingsgroep vrouwen.}{section.5}% 18
-\BOOKMARK [2][-]{subsection.5.2}{Factoren bevolkingsgroep allochtonen.}{section.5}% 19
-\BOOKMARK [2][-]{subsection.5.3}{Factoren bevolkingsgroep ouderen.}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.1}{Factoren Bevolkingsgroep Vrouwen.}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{Factoren Bevolkingsgroep Allochtonen.}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.3}{Factoren Bevolkingsgroep Ouderen.}{section.5}% 20
 \BOOKMARK [2][-]{subsection.5.4}{Factoren bevolkingsgroep provincialen.}{section.5}% 21
 \BOOKMARK [1][-]{section.6}{Uitvoerbaarheid Strategie\353n}{}% 22
 \BOOKMARK [2][-]{subsection.6.1}{Uitvoeringswijze Strategie\353n.}{section.6}% 23
 \BOOKMARK [2][-]{subsection.6.2}{Voor- en nadelen van keuze voor een uitvoeringswijze strategie.}{section.6}% 24
-\BOOKMARK [1][-]{section.7}{Tegenbeweging en de Zoektoch naar het Nash Equilibrium.}{}% 25
-\BOOKMARK [1][-]{section.8}{Voorkomen Uitbuiting Voorkeursdrempel.}{}% 26
+\BOOKMARK [1][-]{section.7}{Tegenbeweging en de Zoektocht naar het Nash Equilibrium}{}% 25
+\BOOKMARK [1][-]{section.8}{Voorkomen Uitbuiting Voorkeursdrempel}{}% 26
 \BOOKMARK [1][-]{section.9}{Conclusie}{}% 27
-\BOOKMARK [2][-]{subsection.9.1}{Acknowledgements}{section.9}% 28
-\BOOKMARK [1][-]{subsection.9.1}{Literatuur}{}% 29
-\BOOKMARK [1][-]{appendix.A}{Bijlage 1.}{}% 30
-\BOOKMARK [2][-]{subsection.A.1}{Bevolkingsgroep: Allochtonen.}{appendix.A}% 31
-\BOOKMARK [3][-]{subsubsection.A.1.1}{Strategie 1: Allochtone kiezers stemmen op top N allochtone kandidaten.}{subsection.A.1}% 32
-\BOOKMARK [3][-]{subsubsection.A.1.2}{Strategie 2: Allochtone kiezers stemmen op een willekeurige allochtone kandidaat.}{subsection.A.1}% 33
-\BOOKMARK [2][-]{subsection.A.2}{Bevolkingsgroep: Ouderen.}{appendix.A}% 34
-\BOOKMARK [3][-]{subsubsection.A.2.1}{Strategie 1: Oudere kiezers stemmen op top N ouderen kandidaten.}{subsection.A.2}% 35
-\BOOKMARK [3][-]{subsubsection.A.2.2}{Strategie 2: Oudere kiezers stemmen op een willekeurige oudere kandidaat.}{subsection.A.2}% 36
-\BOOKMARK [3][-]{subsubsection.A.2.3}{Strategie 3.1: Oudere kiezers stemmen willekeurige op \351\351n van de eerste 15 oudere kandidaten van een partij.}{subsection.A.2}% 37
-\BOOKMARK [3][-]{subsubsection.A.2.4}{Strategie 3.2: Oudere kiezers stemmen willekeurige op \351\351n van de eerste N oudere kandidaten van een partij.}{subsection.A.2}% 38
-\BOOKMARK [3][-]{subsubsection.A.2.5}{Strategie 4: Ouderen kiezers stemmen op de top N+extra percentage oudere kandidaten van een partij.}{subsection.A.2}% 39
-\BOOKMARK [2][-]{subsection.A.3}{Bevolkingsgroep: Provincialen.}{appendix.A}% 40
-\BOOKMARK [3][-]{subsubsection.A.3.1}{Strategie 1: Provinciale kiezers stemmen op top N Provinciale kandidaten.}{subsection.A.3}% 41
-\BOOKMARK [3][-]{subsubsection.A.3.2}{Strategie 2: Provinciale kiezers stemmen op een willekeurige provinciale kandidaat.}{subsection.A.3}% 42
-\BOOKMARK [3][-]{subsubsection.A.3.3}{Strategie 3.1: Provinciale kiezers stemmen willekeurige op \351\351n van de eerste 15 provinciale kandidaten van een partij.}{subsection.A.3}% 43
-\BOOKMARK [3][-]{subsubsection.A.3.4}{Strategie 3.2: Provinciale kiezers stemmen willekeurige op \351\351n van de eerste N provinciale kandidaten van een partij.}{subsection.A.3}% 44
-\BOOKMARK [3][-]{subsubsection.A.3.5}{Strategie 4: Provinciale kiezers stemmen op de top N+extra percentage provinciale kandidaten van een partij.}{subsection.A.3}% 45
-\BOOKMARK [1][-]{appendix.B}{Bijlage 2.}{}% 46
+\BOOKMARK [2][-]{subsection.9.1}{Beperkingen onderzoek.}{section.9}% 28
+\BOOKMARK [2][-]{subsection.9.2}{Dankbetuiging}{section.9}% 29
+\BOOKMARK [1][-]{subsection.9.2}{Literatuur}{}% 30
+\BOOKMARK [1][-]{appendix.A}{Bijlage 1}{}% 31
+\BOOKMARK [2][-]{subsection.A.1}{Bevolkingsgroep: Allochtonen.}{appendix.A}% 32
+\BOOKMARK [3][-]{subsubsection.A.1.1}{Strategie 1: Allochtone kiezers stemmen op top N allochtone kandidaten.}{subsection.A.1}% 33
+\BOOKMARK [3][-]{subsubsection.A.1.2}{Strategie 2: Allochtone kiezers stemmen op een willekeurige allochtone kandidaat.}{subsection.A.1}% 34
+\BOOKMARK [2][-]{subsection.A.2}{Bevolkingsgroep: Ouderen.}{appendix.A}% 35
+\BOOKMARK [3][-]{subsubsection.A.2.1}{Strategie 1: Oudere kiezers stemmen op top N ouderen kandidaten.}{subsection.A.2}% 36
+\BOOKMARK [3][-]{subsubsection.A.2.2}{Strategie 2: Oudere kiezers stemmen op een willekeurige oudere kandidaat.}{subsection.A.2}% 37
+\BOOKMARK [3][-]{subsubsection.A.2.3}{Strategie 3.1: Oudere kiezers stemmen willekeurige op \351\351n van de eerste 15 oudere kandidaten van een partij.}{subsection.A.2}% 38
+\BOOKMARK [3][-]{subsubsection.A.2.4}{Strategie 3.2: Oudere kiezers stemmen willekeurige op \351\351n van de eerste N oudere kandidaten van een partij.}{subsection.A.2}% 39
+\BOOKMARK [3][-]{subsubsection.A.2.5}{Strategie 4: Ouderen kiezers stemmen op de top N+extra percentage oudere kandidaten van een partij.}{subsection.A.2}% 40
+\BOOKMARK [2][-]{subsection.A.3}{Bevolkingsgroep: Provincialen.}{appendix.A}% 41
+\BOOKMARK [3][-]{subsubsection.A.3.1}{Strategie 1: Provinciale kiezers stemmen op top N provinciale kandidaten.}{subsection.A.3}% 42
+\BOOKMARK [3][-]{subsubsection.A.3.2}{Strategie 2: Provinciale kiezers stemmen op een willekeurige provinciale kandidaat.}{subsection.A.3}% 43
+\BOOKMARK [3][-]{subsubsection.A.3.3}{Strategie 3.1: Provinciale kiezers stemmen willekeurige op \351\351n van de eerste 15 provinciale kandidaten van een partij.}{subsection.A.3}% 44
+\BOOKMARK [3][-]{subsubsection.A.3.4}{Strategie 3.2: Provinciale kiezers stemmen willekeurige op \351\351n van de eerste N provinciale kandidaten van een partij.}{subsection.A.3}% 45
+\BOOKMARK [3][-]{subsubsection.A.3.5}{Strategie 4: Provinciale kiezers stemmen op de top N+extra percentage provinciale kandidaten van een partij.}{subsection.A.3}% 46
+\BOOKMARK [1][-]{appendix.B}{Bijlage 2}{}% 47
