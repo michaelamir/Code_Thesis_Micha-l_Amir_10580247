@@ -22,7 +22,7 @@
 \contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van einduitslag.}{25}{figure.caption.15}
 \contentsline {paragraph}{Aantal vrouwen na strategie 1.}{26}{figure.caption.16}
 \contentsline {paragraph}{Minder dan 127 vrouwen in de Tweede Kamer na uitvoering van strategie 1.}{27}{figure.caption.17}
-\contentsline {subsubsection}{\numberline {4.1.2}Strategie 2: Vrouwelijke kiezers stemmen op een willekeurige vrouwelijke kandidaat.}{27}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2}Strategie 2: Vrouwelijke kiezers stemmen op een willekeurig vrouwelijke kandidaat.}{27}{subsubsection.4.1.2}
 \contentsline {paragraph}{Regels.}{27}{subsubsection.4.1.2}
 \contentsline {paragraph}{Het toewijzen van de stemmen aan de vrouwelijke kandidaten op basis van de peiling en de einduitslag.}{27}{subsubsection.4.1.2}
 \contentsline {paragraph}{Aantal vrouwen na strategie 2.}{28}{figure.caption.18}
